@@ -10,6 +10,11 @@ body {
   font-size: 18px;
   margin-bottom: 10px;
 }
+.turn {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
 
 
 .header {
