@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Jeopardy Multiplayer</title>
+<link rel="stylesheet" href="style.css">
+<!-- Socket.IO client script from our server -->
+<script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+<div class="header" id="money">Money: $0</div>
+<div id="players" class="players"></div>
+
+<div class="board" id="board"></div>
+
+<!-- Modal for question -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <h2 id="modal-question"></h2>
+    <input id="modal-input" type="text" placeholder="Type your answer here">
+    <div id="timer-bar-container">
+      <div id="timer-bar"></div>
+    </div>
+    <div id="timer-text">Time left: 15s</div>
+    <button id="modal-submit">Submit</button>
+  </div>
+</div>
+
+<script>
+// ----- Multiplayer setup -----
+const socket = io();
+const playerName = prompt('Enter your player name:');
+socket.emit('join', playerName);
+
+// update players list whenever it changes
+socket.on('players', (players) => {
+  const playersDiv = document.getElementById('players');
+  playersDiv.innerHTML = '<h3>Players</h3>' + 
+    Object.values(players).map(p => `${p.name}: $${p.score}`).join('<br>');
+});
+
+// ----- Game Board setup -----
+let money = 0; // local (we update via server anyway)
+
+const SERVER_URL = '/board'; // since index.html served by same server
+
+const modal = document.getElementById('modal');
+const modalQuestion = document.getElementById('modal-question');
+const modalInput = document.getElementById('modal-input');
+const modalSubmit = document.getElementById('modal-submit');
+const timerBar = document.getElementById('timer-bar');
+const timerText = document.getElementById('timer-text');
+
+let currentQ = null;
+let currentVal = 0;
+let currentCell = null;
+let timerInterval = null;
+let timeLeft = 15;
+
+fetch(SERVER_URL)
+.then(res => res.json())
+.then(data => {
+  const boardDiv = document.getElementById('board');
+  const categories = Object.keys(data);
+
+  // header row
+  categories.forEach(cat => {
+    const cell = document.createElement('div');
+    cell.className = 'cell header-cell';
+    cell.innerText = cat;
+    boardDiv.appendChild(cell);
+  });
+
+  const values = [200,400,600,800,1000];
+  values.forEach(val => {
+    categories.forEach(cat => {
+      const cell = document.createElement('div');
+      cell.className='cell';
+      cell.innerText='$'+val;
+      cell.onclick = () => {
+        const q=data[cat][val];
+        if(!q) return;
+        openModal(q,val,cell);
+      };
+      boardDiv.appendChild(cell);
+    });
+  });
+});
+
+function openModal(q,val,cell){
+  currentQ=q;
+  currentVal=val;
+  currentCell=cell;
+  modalQuestion.textContent=q.question;
+  modalInput.value='';
+  modal.style.display='flex';
+  startTimer();
+}
+
+function startTimer(){
+  timeLeft=15;
+  updateTimerBar();
+  timerInterval=setInterval(()=>{
+    timeLeft--;
+    updateTimerBar();
+    if(timeLeft<=0){
+      clearInterval(timerInterval);
+      checkAnswer(null);
+    }
+  },1000);
+}
+
+function updateTimerBar(){
+  timerText.textContent='Time left: '+timeLeft+'s';
+  timerBar.style.width=(timeLeft/15*100)+'%';
+}
+
+modalSubmit.onclick=()=>{
+  clearInterval(timerInterval);
+  checkAnswer(modalInput.value);
+};
+
+modalInput.onkeydown=(e)=>{
+  if(e.key==='Enter'){
+    clearInterval(timerInterval);
+    checkAnswer(modalInput.value);
+  }
+};
+
+function normalize(t){
+  if(!t) return '';
+  t=t.toLowerCase().trim();
+  t=t.replace(/^(what|who|where|when|why|which|whats|whos|wheres|whens)\s+(is|are|was|were)\s+/,'');
+  t=t.replace(/^(an|a|the)\s+/,'');
+  t=t.replace(/[^a-z0-9 ]/g,'').trim();
+  return t;
+}
+
+function checkAnswer(ans){
+  modal.style.display='none';
+  timerBar.style.width='0%';
+  timerText.textContent='Time left: 0s';
+
+  if(ans && normalize(ans)===normalize(currentQ.answer)){
+    // add points
+    socket.emit('updateScore', +currentVal);
+    alert('Correct! +$'+currentVal);
+  } else {
+    // subtract points
+    socket.emit('updateScore', -currentVal);
+    alert('Wrong or no answer. Correct answer: '+currentQ.answer+' -$'+currentVal);
+  }
+
+  currentCell.classList.add('used-cell');
+  currentCell.onclick=null;
+}
+</script>
+</body>
+</html>
+
