@@ -178,22 +178,17 @@ function handleIncorrect(playerId) {
 
 function revealAnswer(msg) {
   stopTimer();
-  gameState.phase = 'reveal';
   if (gameState.currentQuestion) {
     gameState.currentQuestion.answerRevealed = gameState.currentQuestion.answer;
   }
   io.emit('toast', { text: msg || `Answer: ${gameState.currentQuestion.answer}` });
 
-  // after 3s go back to idle automatically
-  setTimeout(() => {
-    gameState.phase = 'idle';
-    gameState.currentQuestion = null;
-    gameState.buzzedInPlayer = null;
-    gameState.buzzedPlayers = [];
-    stopTimer();
-    sendGameState();
-  }, 3000);
-
+  // NEW: immediately reset state
+  gameState.phase = 'idle';
+  gameState.currentQuestion = null;
+  gameState.buzzedInPlayer = null;
+  gameState.buzzedPlayers = [];
+  stopTimer();
   sendGameState();
 }
 

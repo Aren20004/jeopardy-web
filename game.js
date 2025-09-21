@@ -22,7 +22,7 @@
   });
 
   socket.on('toast', ({ text }) => {
-    setStatus(text);
+    flashBanner(text);
   });
 
   buzzBtn.onclick = () => {
@@ -113,29 +113,17 @@
     const alreadyBuzzed = buzzedPlayers && buzzedPlayers.includes(socket.id);
 
     if (phase === 'questionOpen') {
-      setStatus('Buzz in now!');
       buzzBtn.disabled = alreadyBuzzed;
       modalAnswerInput.disabled=true;
       modalSubmitBtn.disabled=true;
     } else if (phase === 'answering') {
       const who = players[buzzedInPlayer] ? players[buzzedInPlayer].name : 'Someone';
-      setStatus(`${who} is answering...`);
       const amMe = iAmBuzzed;
       buzzBtn.disabled=true;
       modalAnswerInput.disabled=!amMe;
       modalSubmitBtn.disabled=!amMe;
       if (amMe) modalAnswerInput.focus();
       else modalAnswerInput.value='';
-    } else if (phase === 'reveal') {
-      // NEW show the answer
-      setStatus(`Answer: ${currentQuestion.answerRevealed || ''}`);
-      buzzBtn.disabled=true;
-      modalAnswerInput.disabled=true;
-      modalSubmitBtn.disabled=true;
-      // NEW hide modal quickly
-      setTimeout(() => hideModal(), 500);
-    } else {
-      hideModal();
     }
   }
 
@@ -158,8 +146,22 @@
     modalAnswerInput.blur();
   }
 
+  function flashBanner(text){
+    const banner=document.getElementById('toast-banner')||createBanner();
+    banner.textContent=text;
+    banner.style.display='block';
+    setTimeout(()=>{banner.style.display='none';},2000);
+  }
+
+  function createBanner(){
+    const b=document.createElement('div');
+    b.id='toast-banner';
+    b.className='toast-banner';
+    document.body.insertBefore(b,document.body.firstChild);
+    return b;
+  }
+
   function byId(id){return document.getElementById(id);}
-  function setStatus(msg){statusDiv.textContent=msg;}
   function showModal(){modal.style.display='flex';}
   function hideModal(){modal.style.display='none';}
   function normalize(s){

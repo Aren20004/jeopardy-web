@@ -117,3 +117,25 @@ body {
   font-size: 18px;
 }
 
+.toast-banner {
+  display: none;
+  background-color: #28a745;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  animation: fadeInOut 2s ease-in-out;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2000;
+}
+
+@keyframes fadeInOut {
+  0% {opacity: 0;}
+  10% {opacity: 1;}
+  90% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
