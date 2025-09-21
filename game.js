@@ -1,9 +1,15 @@
 (function () {
   const socket = io();
 
-  const playerName = prompt('Enter your player name:') || ('Player ' + Math.floor(Math.random()*1000));
+  // Ask player name
+  const playerName = prompt('Enter your player name:') || ('Player ' + Math.floor(Math.random() * 1000));
   socket.emit('join', playerName);
 
+  // ✅ Load correct answer sound and preload
+  const correctSound = new Audio('correct.mp3');
+  correctSound.load();
+
+  // Grab page elements
   const boardDiv = byId('board');
   const playersDiv = byId('players');
   const turnDiv = byId('turn');
@@ -17,26 +23,33 @@
   const timerText = byId('timer-text');
   const timerBar = byId('timer-bar');
 
+  // === Socket events ===
   socket.on('gameState', (state) => {
     renderAll(state);
   });
 
   socket.on('toast', ({ text }) => {
     flashBanner(text);
+    // ✅ Play sound when correct
+    if (text.includes('got it correct')) {
+      correctSound.play().catch(err => console.log('Audio play error', err));
+    }
   });
 
+  // Buzz button
   buzzBtn.onclick = () => {
     socket.emit('buzzIn');
   };
 
+  // Submit answer
   modalSubmitBtn.onclick = () => {
     submitAnswer();
   };
-
   modalAnswerInput.onkeydown = (e) => {
     if (e.key === 'Enter') submitAnswer();
   };
 
+  // === Rendering functions ===
   function renderAll(state) {
     renderPlayers(state.players);
     renderTurn(state);
@@ -73,22 +86,22 @@
       boardDiv.appendChild(cell);
     });
 
-    const values = [200,400,600,800,1000];
+    const values = [200, 400, 600, 800, 1000];
     values.forEach(val => {
       categories.forEach(cat => {
         const q = (board[cat] || {})[val];
         const cell = document.createElement('div');
-        cell.className='cell';
+        cell.className = 'cell';
         if (!q) {
-          cell.innerText='N/A';
+          cell.innerText = 'N/A';
           cell.classList.add('used-cell');
         } else if (q.used) {
-          cell.innerText='—';
+          cell.innerText = '—';
           cell.classList.add('used-cell');
         } else {
-          cell.innerText='$'+val;
+          cell.innerText = '$' + val;
           const isMyTurn = socket.id === currentTurn;
-          const canPick = phase==='idle' && isMyTurn;
+          const canPick = phase === 'idle' && isMyTurn;
           cell.style.opacity = canPick ? '1.0' : '0.5';
           if (canPick) {
             cell.onclick = () => {
@@ -114,87 +127,87 @@
 
     if (phase === 'questionOpen') {
       buzzBtn.disabled = alreadyBuzzed;
-      modalAnswerInput.disabled=true;
-      modalSubmitBtn.disabled=true;
+      modalAnswerInput.disabled = true;
+      modalSubmitBtn.disabled = true;
     } else if (phase === 'answering') {
-      const who = players[buzzedInPlayer] ? players[buzzedInPlayer].name : 'Someone';
       const amMe = iAmBuzzed;
-      buzzBtn.disabled=true;
-      modalAnswerInput.disabled=!amMe;
-      modalSubmitBtn.disabled=!amMe;
+      buzzBtn.disabled = true;
+      modalAnswerInput.disabled = !amMe;
+      modalSubmitBtn.disabled = !amMe;
       if (amMe) modalAnswerInput.focus();
-      else modalAnswerInput.value='';
+      else modalAnswerInput.value = '';
     }
   }
 
   function renderTimer(timer) {
     if (!timer || typeof timer.remaining !== 'number' || typeof timer.total !== 'number') {
-      timerText.textContent='Time: —';
-      timerBar.style.width='0%';
+      timerText.textContent = 'Time: —';
+      timerBar.style.width = '0%';
       return;
     }
-    const pct=Math.max(0,Math.min(100,(timer.remaining/timer.total)*100));
-    timerText.textContent=`Time left: ${timer.remaining}s`;
-    timerBar.style.width=pct+'%';
+    const pct = Math.max(0, Math.min(100, (timer.remaining / timer.total) * 100));
+    timerText.textContent = `Time left: ${timer.remaining}s`;
+    timerBar.style.width = pct + '%';
   }
 
   function submitAnswer() {
     const raw = modalAnswerInput.value || '';
     const normalized = normalize(raw);
     socket.emit('submitAnswer', { answer: normalized });
-    modalAnswerInput.value='';
+    modalAnswerInput.value = '';
     modalAnswerInput.blur();
   }
 
-  function flashBanner(text){
-    const banner=document.getElementById('toast-banner')||createBanner();
-    banner.textContent=text;
-    banner.style.display='block';
-    setTimeout(()=>{banner.style.display='none';},2000);
+  function flashBanner(text) {
+    const banner = document.getElementById('toast-banner') || createBanner();
+    banner.textContent = text;
+    banner.style.display = 'block';
+    setTimeout(() => { banner.style.display = 'none'; }, 2000);
   }
 
-  function createBanner(){
-    const b=document.createElement('div');
-    b.id='toast-banner';
-    b.className='toast-banner';
-    document.body.insertBefore(b,document.body.firstChild);
+  function createBanner() {
+    const b = document.createElement('div');
+    b.id = 'toast-banner';
+    b.className = 'toast-banner';
+    document.body.insertBefore(b, document.body.firstChild);
     return b;
   }
 
-  function byId(id){return document.getElementById(id);}
-  function showModal(){modal.style.display='flex';}
-  function hideModal(){modal.style.display='none';}
-  function normalize(s){
-    if(!s)return'';
-    s=s.toLowerCase().trim();
-    s=s.replace(/^(what|who|where|when|why|which|whats|whos|wheres|whens)\s+(is|are|was|were)\s+/,'');
-    s=s.replace(/^(an|a|the)\s+/,'');
-    s=s.replace(/[^a-z0-9 ]/g,'').trim();
-    s=s.replace(/\s+/g,' ');
+  // === Utility functions ===
+  function byId(id) { return document.getElementById(id); }
+  function showModal() { modal.style.display = 'flex'; }
+  function hideModal() { modal.style.display = 'none'; }
+  function normalize(s) {
+    if (!s) return '';
+    s = s.toLowerCase().trim();
+    s = s.replace(/^(what|who|where|when|why|which|whats|whos|wheres|whens)\s+(is|are|was|were)\s+/, '');
+    s = s.replace(/^(an|a|the)\s+/, '');
+    s = s.replace(/[^a-z0-9 ]/g, '').trim();
+    s = s.replace(/\s+/g, ' ');
     return s;
   }
-  function escapeHtml(s){
-    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  function escapeHtml(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
-  function ensureStatusBar(){
-    let el=document.getElementById('status');
-    if(!el){
-      el=document.createElement('div');
-      el.id='status';
-      el.style.textAlign='center';
-      el.style.margin='10px 0';
-      el.style.fontSize='18px';
-      document.body.insertBefore(el,document.body.firstChild);
+  function ensureStatusBar() {
+    let el = document.getElementById('status');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'status';
+      el.style.textAlign = 'center';
+      el.style.margin = '10px 0';
+      el.style.fontSize = '18px';
+      document.body.insertBefore(el, document.body.firstChild);
     }
     return el;
   }
-  function ensureModal(){
-    let m=document.getElementById('modal');
-    if(m)return m;
-    const c=document.createElement('div');
-    c.id='modal';
-    c.className='modal';
-    c.innerHTML=`
+  function ensureModal() {
+    let m = document.getElementById('modal');
+    if (m) return m;
+    const c = document.createElement('div');
+    c.id = 'modal';
+    c.className = 'modal';
+    c.innerHTML = `
       <div class="modal-content">
         <h2 id="modal-question"></h2>
         <div class="controls-row">

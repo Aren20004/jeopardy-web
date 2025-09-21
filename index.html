@@ -1,27 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>Jeopardy Multiplayer</title>
-  <link rel="stylesheet" href="style.css">
-  <!-- Socket.IO client -->
-  <script src="/socket.io/socket.io.js"></script>
-  <!-- Our game client logic -->
-  <script src="game.js" defer></script>
+<meta charset="UTF-8">
+<title>Jeopardy Multiplayer</title>
+<link rel="stylesheet" href="style.css">
+<script src="/socket.io/socket.io.js"></script>
+<script src="game.js" defer></script>
 </head>
 <body>
-  <h1 class="header">Jeopardy Multiplayer</h1>
+<!-- Overlay for correct answer -->
 
-  <!-- Player list -->
-  <div id="players" class="players"></div>
-  <!-- Current turn -->
-  <div id="turn" class="turn"></div>
-  <!-- Board -->
-  <div class="board" id="board"></div>
+<div class="header" id="money">Jeopardy Multiplayer</div>
+<div id="status"></div>
 
-  <!-- Status bar is injected by game.js automatically -->
-  <!-- Modal with question/timer/buzz will be injected by game.js automatically -->
+<div id="turn"></div>
+<div id="players"></div>
 
+<div class="board" id="board"></div>
+
+<!-- The modal is created dynamically in game.js -->
 </body>
 </html>
 
