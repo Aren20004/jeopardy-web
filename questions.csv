@@ -7,7 +7,7 @@ World Geography,200,This line divides Earth into North and South hemispheres,Wha
 World Geography,400,This island nation lies southeast of India,What is Sri Lanka?
 World Geography,400,This sea separates Europe and Africa,What is the Mediterranean Sea?
 World Geography,400,This country’s capital is Reykjavik,What is Iceland?
-World Geography,400,This famous barrier stretches over 13,000 miles in China,What is the Great Wall of China?
+World Geography,400,This famous barrier stretches over 13000 miles in China,What is the Great Wall of China?
 World Geography,400,This canal connects the Atlantic and Pacific Oceans,What is the Panama Canal?
 World Geography,600,This country has the city of Timbuktu,What is Mali?
 World Geography,600,This African lake is the largest by area,What is Lake Victoria?
@@ -17,7 +17,7 @@ World Geography,600,This mountain range stretches across Morocco,What are the At
 World Geography,800,This country used to be called Burma,What is Myanmar?
 World Geography,800,This European river empties into the Black Sea,What is the Danube?
 World Geography,800,This Asian desert is known for extreme temperatures,What is the Gobi Desert?
-World Geography,800,This archipelago nation has more than 7,000 islands,What is the Philippines?
+World Geography,800,This archipelago nation has more than 000 islands,What is the Philippines?
 World Geography,800,This ocean is the smallest by area,What is the Arctic Ocean?
 World Geography,1000,This African country was formerly known as Abyssinia,What is Ethiopia?
 World Geography,1000,This country straddles two continents: Europe and Asia,What is Turkey?
@@ -108,7 +108,7 @@ Video Games,400,This online battle royale game features building structures for 
 Video Games,400,This game series features Master Chief fighting alien Covenant,What is Halo?
 Video Games,400,This life simulation game allows players to control virtual families,What is The Sims?
 Video Games,400,This 1980 arcade game features a yellow circle eating dots,What is Pac-Man?
-Video Games,400,This first-person shooter is set in Rapture, an underwater city,What is BioShock?
+Video Games,400,This first-person shooter is set in Rapture an underwater city,What is BioShock?
 Video Games,600,This RPG series includes games like Final Fantasy VII and X,What is Final Fantasy?
 Video Games,600,This stealth-action game stars Solid Snake,What is Metal Gear Solid?
 Video Games,600,This Valve game features a gun that makes portals,What is Portal?
@@ -155,7 +155,7 @@ Movies,200,This animated Pixar film features a cowboy doll and a space ranger,Wh
 Movies,200,This Marvel superhero is also known as Tony Stark,Who is Iron Man?
 Movies,200,This 2013 Disney film features the song "Let It Go,"What is Frozen?
 Movies,400,This 1993 film about cloned dinosaurs takes place on Isla Nublar,What is Jurassic Park?
-Movies,400,This director is known for “Jaws,” “E.T.” and “Indiana Jones,”Who is Steven Spielberg?
+Movies,400,This director is known for “Jaws” “E.T.” and “Indiana Jones,”Who is Steven Spielberg?
 Movies,400,This 2018 superhero film won Best Picture at the Oscars,What is Black Panther?
 Movies,400,This film features a giant ape climbing the Empire State Building,What is King Kong?
 Movies,400,This 1994 crime film stars John Travolta and Samuel L. Jackson,What is Pulp Fiction?
@@ -184,7 +184,7 @@ Music,400,This band released the album “Dark Side of the Moon,”Who are Pink 
 Music,400,This composer wrote the Fifth Symphony and was deaf,Who is Ludwig van Beethoven?
 Music,400,This Canadian rapper released “God’s Plan,”Who is Drake?
 Music,400,This British singer performed the theme song for “Skyfall,”Who is Adele?
-Music,600,This instrument family includes the violin, viola, cello, and bass,What are String instruments?
+Music,600,This instrument family includes the violin viola cello and bass,What are String instruments?
 Music,600,This legendary guitarist of The Experience was known for playing with his teeth,Who is Jimi Hendrix?
 Music,600,This music festival in 1969 became a symbol of peace and love,What is Woodstock?
 Music,600,This genre combines rhythm and spoken lyrics,What is Hip-Hop?
@@ -231,7 +231,7 @@ Food,200,This yellow fruit is high in potassium,What is a Banana?
 Food,200,This drink is made by fermenting grapes,What is Wine?
 Food,200,This grain is a staple food in many Asian countries,What is Rice?
 Food,400,This is the Japanese word for raw fish served with rice,What is Sushi?
-Food,400,This dessert is made of layers of ladyfingers, coffee, and mascarpone,What is Tiramisu?
+Food,400,This dessert is made of layers of ladyfingers coffee and mascarpone,What is Tiramisu?
 Food,400,This spice is known as “the world’s most expensive spice” by weight,What is Saffron?
 Food,400,This type of meat comes from a young sheep,What is Lamb?
 Food,400,This hot beverage originated in China and is now popular worldwide,What is Tea?
@@ -239,11 +239,11 @@ Food,600,This dairy product is made by churning cream,What is Butter?
 Food,600,This Mexican sauce is made with chocolate and chili peppers,What is Mole?
 Food,600,This fruit is known as “king of fruits” in Southeast Asia,What is Durian?
 Food,600,This Italian cheese is traditionally used on pizza,What is Mozzarella?
-Food,600,This vegetable can be orange, purple, or white and improves eyesight,What is Carrot?
+Food,600,This vegetable can be orange purple or white and improves eyesight,What is Carrot?
 Food,800,This fermented Korean dish is made of cabbage and chili,What is Kimchi?
 Food,800,This country is famous for its maple syrup,What is Canada?
 Food,800,This Middle Eastern dip is made from chickpeas and tahini,What is Hummus?
-Food,800,This Spanish dish features rice, saffron, and seafood,What is Paella?
+Food,800,This Spanish dish features rice saffron and seafood,What is Paella?
 Food,800,This French dessert is a custard with a caramelized sugar top,What is Crème Brûlée?
 Food,1000,This Japanese delicacy is thinly sliced raw beef or fish,What is Sashimi?
 Food,1000,This South American drink is brewed from yerba mate leaves,What is Mate?
@@ -351,3 +351,961 @@ Double Letter Words,1000,This US state name is famous for river and double lette
 Double Letter Words,1000,This Italian cheese often used on pizza,What is Mozzarella?
 Double Letter Words,1000,This word means great energy or flair in style,What is Pizzazz?
 Double Letter Words,1000,This process of maintaining financial records,What is Bookkeeping?
+Minecraft,200,This green hostile mob explodes near players,What is a Creeper?
+Minecraft,200,This item restores health when eaten,What is Bread?
+Minecraft,200,This block is needed to craft torches,What is Coal?
+Minecraft,200,This animal drops wool when sheared,What is a Sheep?
+Minecraft,200,This biome is filled with sand and cacti,What is the Desert?
+Minecraft,400,This boss lives in the dimension called The End,What is the Ender Dragon?
+Minecraft,400,This ore is used to craft stronger armor than iron,What is Diamond?
+Minecraft,400,This hostile mob shoots arrows from a distance,What is a Skeleton?
+Minecraft,400,This tool is needed to mine obsidian,What is a Diamond Pickaxe?
+Minecraft,400,This potion makes you invisible to mobs,What is Potion of Invisibility?
+Minecraft,600,This dimension has ghasts and nether fortresses,What is the Nether?
+Minecraft,600,This enchantment increases walking speed on soul sand,What is Soul Speed?
+Minecraft,600,This red ore powers machines and contraptions,What is Redstone?
+Minecraft,600,This mob drops blaze rods,What is a Blaze?
+Minecraft,600,This block can be used to enchant gear with lapis,What is an Enchanting Table?
+Minecraft,800,This hostile mob spawns only underwater and attacks with a trident,What is a Drowned?
+Minecraft,800,This rare biome has blue-green grass and mooshrooms,What is the Mushroom Island?
+Minecraft,800,This structure in the ocean contains guardians and sponges,What is an Ocean Monument?
+Minecraft,800,This villager profession trades enchanted books,What is a Librarian?
+Minecraft,800,This item allows you to respawn in the Nether,What is a Respawn Anchor?
+Minecraft,1000,This rare drop from a phantom can repair elytra,What is a Phantom Membrane?
+Minecraft,1000,This mob summons vexes and uses magic attacks,What is an Evoker?
+Minecraft,1000,This hidden dimension was rumored but never added,What is the Far Lands?
+Minecraft,1000,This effect allows a player to breathe underwater indefinitely,What is Conduit Power?
+Minecraft,1000,This biome generates tall spruce trees and podzol,What is the Mega Taiga?
+Fortnite,200,This bus carries players into the match,What is the Battle Bus?
+Fortnite,200,This shrinking circle damages players outside of it,What is the Storm?
+Fortnite,200,This is the name of the in game currency,What are V Bucks?
+Fortnite,200,This building material is the weakest of the three,What is Wood?
+Fortnite,200,This island is the main play area for each match,What is the Battle Royale Island?
+Fortnite,200,This named location was a tropical resort style area in Chapter 1,What is Lazy Lagoon?
+Fortnite,200,This desert area contained a racetrack in Chapter 1 Season 5,What is Paradise Palms?
+Fortnite,200,This snowy area featured a castle and ice structures,What is Polar Peak?
+Fortnite,400,This material builds the strongest structures,What is Metal?
+Fortnite,400,This area contains NPC bosses and vaults each season,What are Points of Interest?
+Fortnite,400,This feature lets players collect loot after being eliminated,What is the Reboot Card?
+Fortnite,400,This word describes the colorful rarity of items,What is Rarity?
+Fortnite,400,This mode pairs two players together,What is Duos?
+Fortnite,400,This location had a huge crater after a meteor strike,What is Dusty Divot?
+Fortnite,400,This area had tall towers and many chests in the city setting,What is Tilted Towers?
+Fortnite,400,This swampy location featured Slurp barrels and trees,What is Slurpy Swamp?
+Fortnite,600,This vehicle lets players redeploy and escape the storm,What is a Launch Pad?
+Fortnite,600,This type of drop from the sky contains high quality loot,What is a Supply Drop?
+Fortnite,600,This weapon fires explosives and rockets,What is a Rocket Launcher?
+Fortnite,600,This tool is used to gather building materials,What is the Harvesting Tool or Pickaxe?
+Fortnite,600,This feature lets players hide inside shrubs or dumpsters,What is Hiding Spots?
+Fortnite,600,This mountain location had ziplines and a villain lair,What is The Volcano?
+Fortnite,600,This underground bunker area was a famous hiding spot,What is The Agency Vault?
+Fortnite,600,This tropical biome replaced part of the island in Season 8,What is Sunny Steps?
+Fortnite,800,This feature allows players to complete missions for XP,What are Quests?
+Fortnite,800,This type of victory is the last team or player standing,What is a Victory Royale?
+Fortnite,800,This character agent ran the Imagined Order storyline,Who is Agent Jonesy?
+Fortnite,800,This event ends a season with a massive in game spectacle,What is a Live Event?
+Fortnite,800,This mechanic introduced sliding downhill,What is Sliding?
+Fortnite,800,This futuristic city replaced Tilted Towers in Season 9,What is Neo Tilted?
+Fortnite,800,This giant robot fought the monster at this location,What is Pressure Plant?
+Fortnite,800,This island landmark had a giant chair made of wood,What is the Giant Wooden Chair?
+Fortnite,1000,This Marvel villain appeared in a huge crossover event,Who is Thanos?
+Fortnite,1000,This place was destroyed by a meteor in Season 4,What is Dusty Depot?
+Fortnite,1000,This rare weapon fires explosive projectiles in bursts,What is the Quad Launcher?
+Fortnite,1000,This feature allows two players to share loot between each other,What is Item Dropping?
+Fortnite,1000,This creative mode lets players build their own maps,What is Fortnite Creative?
+Fortnite,1000,This underwater area became accessible after the flood,What is Coral Castle?
+Fortnite,1000,This secretive base belonged to Midas and the Agency,What is The Authority?
+Fortnite,1000,This floating island often moved around the map powered by the Cube,What is Kevins Floating Island?
+Pokemon,200,This yellow Electric type is the mascot of the franchise,Who is Pikachu?
+Pokemon,200,This small green grass type starter was first seen in Kanto,Who is Bulbasaur?
+Pokemon,200,This ball is used to catch wild Pokemon,What is a Pokeball?
+Pokemon,200,This fire type starter evolves into Charizard,Who is Charmander?
+Pokemon,200,This blue water type starter evolves into Blastoise,Who is Squirtle?
+Pokemon,200,This type is super effective against Fire types,What is Water?
+Pokemon,200,This type resists Electric type moves,What is Ground?
+Pokemon,200,This Pokemon is known as the Mouse Pokemon,Who is Pikachu?
+Pokemon,200,This Pokemon is known as the Seed Pokemon,Who is Bulbasaur?
+Pokemon,400,This region is home to Pallet Town and Pewter City,What is Kanto?
+Pokemon,400,This legendary bird represents thunder,Who is Zapdos?
+Pokemon,400,This move recovers half the users max HP,What is Recover?
+Pokemon,400,This item heals all status conditions of a Pokemon,What is a Full Heal?
+Pokemon,400,This type is super effective against Water types,What is Electric or Grass?
+Pokemon,400,This type is immune to Normal type moves,What is Ghost?
+Pokemon,400,This type is weak to Steel and Poison types,What is Fairy?
+Pokemon,400,This Pokemon is known as the Tiny Turtle Pokemon,Who is Squirtle?
+Pokemon,400,This Pokemon is known as the Flame Pokemon,Who is Charmander?
+Pokemon,600,This city in Kanto contains the Pokemon Tower,What is Lavender Town?
+Pokemon,600,This fossil Pokemon can revive into Kabutops,What is Kabuto?
+Pokemon,600,This dragon type legendary Pokemon represents time,Who is Dialga?
+Pokemon,600,This ability doubles speed in rain,What is Swift Swim?
+Pokemon,600,This item boosts a Pokemons friendship when held,What is a Soothe Bell?
+Pokemon,600,This type resists Bug Steel Grass and Ice moves,What is Fire?
+Pokemon,600,This type is weak to Fighting but strong against Psychic,What is Dark?
+Pokemon,600,This Pokemon is known as the Legendary Bird of Ice,Who is Articuno?
+Pokemon,600,This Pokemon is known as the Legendary Bird of Fire,Who is Moltres?
+Pokemon,800,This move allows a Pokemon to switch out after dealing damage,What is U Turn?
+Pokemon,800,This region introduced Dynamax battles,What is Galar?
+Pokemon,800,This Pokemon is known as the Genetic Pokemon,Who is Mewtwo?
+Pokemon,800,This type is immune to Psychic moves,What is Dark?
+Pokemon,800,This Pokemon evolves into Gardevoir or Gallade,What is Ralts?
+Pokemon,800,This type is immune to Electric attacks,What is Ground?
+Pokemon,800,This Pokemon is known as the Aura Pokemon,Who is Lucario?
+Pokemon,1000,This move lets a Pokemon temporarily transform into a special form,What is Mega Evolution?
+Pokemon,1000,This island region introduced Z Moves,What is Alola?
+Pokemon,1000,This legendary Pokemon created the Pokemon universe,Who is Arceus?
+Pokemon,1000,This rare item evolves Feebas into Milotic,What is a Prism Scale?
+Pokemon,1000,This region contains the Battle Frontier and Mt Chimney,What is Hoenn?
+Pokemon,1000,This Pokemon is known as the Original One who created all Pokemon,Who is Arceus?
+Brands,200,This brand uses a swoosh logo,What is Nike?
+Brands,200,This brand created the iPhone,What is Apple?
+Brands,200,This soft drink is known for its red can,What is Coca Cola?
+Brands,200,This brand makes the Big Mac burger,What is McDonalds?
+Brands,200,This brand has a golden arches logo,What is McDonalds?
+Brands,200,This fast food chain is known for the Whopper,What is Burger King?
+Brands,200,This brand is famous for its three stripe logo on shoes,What is Adidas?
+Brands,200,This company makes Frosted Flakes cereal,What is Kelloggs?
+Brands,200,This brand slogan is Just Do It,What is Nike?
+Brands,200,This brand is known for a red and white logo and fried chicken,What is KFC?
+Brands,400,This brand makes the PlayStation console,What is Sony?
+Brands,400,This tech company owns the Android operating system,What is Google?
+Brands,400,This fast food chain sells the Frosty dessert,What is Wendys?
+Brands,400,This brand is known for its polar bear commercials at Christmas,What is Coca Cola?
+Brands,400,This sneaker brand is endorsed by Michael Jordan,What is Air Jordan?
+Brands,400,This online streaming service features a red N logo,What is Netflix?
+Brands,400,This chocolate bar slogan is Have a Break Have a,What is KitKat?
+Brands,400,This toy brand makes plastic bricks for building,What is Lego?
+Brands,400,This company makes the Galaxy line of phones,What is Samsung?
+Brands,400,This brand produces iPads and Macs,What is Apple?
+Brands,600,This video game company makes Mario and Zelda,What is Nintendo?
+Brands,600,This soda was originally called Brad’s Drink,What is Pepsi?
+Brands,600,This American car brand makes the Mustang,What is Ford?
+Brands,600,This brand sells online auctions and shopping,What is eBay?
+Brands,600,This sports brand makes basketballs and golf balls with a swoosh,What is Nike?
+Brands,600,This brand has a blue bird logo,What is Twitter or X?
+Brands,600,This frozen treat brand uses a spoon bending Blizzard,What is Dairy Queen?
+Brands,600,This brand makes Doritos and Lays chips,What is Frito Lay?
+Brands,600,This company makes Alexa smart speakers,What is Amazon?
+Brands,600,This brand created Windows operating system,What is Microsoft?
+Brands,800,This clothing brand is known for its crocodile logo,What is Lacoste?
+Brands,800,This brand produces Beats headphones,What is Apple?
+Brands,800,This fast food chain uses a bell in its logo,What is Taco Bell?
+Brands,800,This athletic brand sponsors the Olympics and uses a check logo,What is Nike?
+Brands,800,This brand has the slogan Think Different,What is Apple?
+Brands,800,This soda brand features a blue can and slogan Obey Your Thirst,What is Sprite?
+Brands,800,This luxury brand uses interlocking C logo,What is Chanel?
+Brands,800,This company makes electric vehicles and rockets,What is Tesla?
+Brands,800,This candy brand uses colorful button shaped chocolate,What are M&Ms?
+Brands,800,This streaming service features a green circle logo,What is Spotify?
+Brands,1000,This company originally sold books online before becoming huge retailer,What is Amazon?
+Brands,1000,This car brand makes the luxury division called Lexus,What is Toyota?
+Brands,1000,This company owns Instagram and WhatsApp,What is Meta or Facebook?
+Brands,1000,This luxury fashion house is known for its LV monogram,What is Louis Vuitton?
+Brands,1000,This search engine brand slogan is Dont be Evil,What is Google?
+Brands,1000,This computer chip maker has the slogan Intel Inside,What is Intel?
+Brands,1000,This brand makes the Cybertruck,What is Tesla?
+Brands,1000,This sports drink brand uses lightning bolt logo,What is Gatorade?
+Brands,1000,This Swedish furniture brand sells flat pack furniture,What is IKEA?
+Brands,1000,This automotive brand is known for the prancing horse logo,What is Ferrari?
+Celebrity,200,This singer is known for the song Shake It Off,Who is Taylor Swift?
+Celebrity,200,This actor played Iron Man in Marvel movies,Who is Robert Downey Jr?
+Celebrity,200,This actress starred in the movie Mean Girls,Who is Lindsay Lohan?
+Celebrity,200,This actor played Jack Sparrow in Pirates of the Caribbean,Who is Johnny Depp?
+Celebrity,200,This basketball player is known as King James,Who is LeBron James?
+Celebrity,400,This actress portrayed Katniss Everdeen in Hunger Games,Who is Jennifer Lawrence?
+Celebrity,400,This actor played Deadpool in Marvel movies,Who is Ryan Reynolds?
+Celebrity,400,This actor played Wolverine in the X Men films,Who is Hugh Jackman?
+Celebrity,400,This singer performed the hit song Umbrella,Who is Rihanna?
+Celebrity,400,This actor starred in the Mission Impossible film series,Who is Tom Cruise?
+Celebrity,600,This pop star is known for the song Bad Romance,Who is Lady Gaga?
+Celebrity,600,This actress played Hermione in the Harry Potter series,Who is Emma Watson?
+Celebrity,600,This actor portrayed Spider Man in the MCU starting in 2016,Who is Tom Holland?
+Celebrity,600,This actor starred in the movie Titanic as Jack,Who is Leonardo DiCaprio?
+Celebrity,600,This singer performed Thriller and Billie Jean,Who is Michael Jackson?
+Celebrity,800,This actress starred in the TV show Friends as Rachel,Who is Jennifer Aniston?
+Celebrity,800,This actor portrayed Tony Stark’s father Howard Stark in MCU,Who is Dominic Cooper?
+Celebrity,800,This rapper released the album The Chronic,Who is Dr Dre?
+Celebrity,800,This comedian is known for the Netflix special Sticks and Stones,Who is Dave Chappelle?
+Celebrity,800,This actress starred in the Twilight movies as Bella Swan,Who is Kristen Stewart?
+Celebrity,1000,This actor played Neo in The Matrix trilogy,Who is Keanu Reeves?
+Celebrity,1000,This singer is known as the Queen of Pop,Who is Madonna?
+Celebrity,1000,This actor portrayed Joker in The Dark Knight,Who is Heath Ledger?
+Celebrity,1000,This director created the Avatar and Titanic films,Who is James Cameron?
+Celebrity,1000,This rapper’s real name is Shawn Carter,Who is Jay Z?
+Famous landmarks,200,This tower in Paris is a symbol of France,What is the Eiffel Tower?
+Famous landmarks,200,This American statue was a gift from France,What is the Statue of Liberty?
+Famous landmarks,200,This ancient arena is located in Rome,What is the Colosseum?
+Famous landmarks,200,This bell tower is in London next to the Houses of Parliament,What is Big Ben?
+Famous landmarks,200,This famous clock can be found in Prague,What is the Astronomical Clock?
+Famous landmarks,400,This famous barrier stretches thousands of miles in China,What is the Great Wall of China?
+Famous landmarks,400,This large tower is in Seattle Washington,What is the Space Needle?
+Famous landmarks,400,This mausoleum is a Wonder of the World in India,What is the Taj Mahal?
+Famous landmarks,400,This arch is located in St Louis Missouri,What is the Gateway Arch?
+Famous landmarks,400,This famous opera house is located in Australia,What is the Sydney Opera House?
+Famous landmarks,600,This mountain is the tallest in the world,What is Mount Everest?
+Famous landmarks,600,This sacred mountain is in Japan and is a symbol of the country,What is Mount Fuji?
+Famous landmarks,600,This landmark in South Dakota features four presidents,What is Mount Rushmore?
+Famous landmarks,600,This famous mosque is located in Istanbul Turkey,What is the Hagia Sophia?
+Famous landmarks,600,This city has the Christ the Redeemer statue on a mountain,What is Rio de Janeiro?
+Famous landmarks,800,This desert structure in Egypt is one of the Seven Wonders of the Ancient World,What are the Pyramids of Giza?
+Famous landmarks,800,This ancient Inca city is high in the Andes mountains,What is Machu Picchu?
+Famous landmarks,800,This landmark is a medieval fortress in London,What is the Tower of London?
+Famous landmarks,800,This bridge connects San Francisco to Marin County,What is the Golden Gate Bridge?
+Famous landmarks,800,This landmark is a large ancient amphitheater in Greece,What is the Theatre of Epidaurus?
+Famous landmarks,1000,This island is home to a prison near San Francisco Bay,What is Alcatraz?
+Famous landmarks,1000,This prehistoric monument of standing stones is in England,What is Stonehenge?
+Famous landmarks,1000,This landmark is a massive canyon carved by the Colorado River,What is the Grand Canyon?
+Famous landmarks,1000,This massive rock in Australia is sacred to Aboriginal people,What is Uluru?
+Famous landmarks,1000,This palace in France was once home to French royalty,What is the Palace of Versailles?
+Marvel vs dc,200,This Marvel hero wields a shield with a star,Who is Captain America?
+Marvel vs dc,200,This DC hero is known as the Dark Knight,Who is Batman?
+Marvel vs dc,200,This Marvel hero wears an iron suit and is a genius inventor,Who is Iron Man?
+Marvel vs dc,200,This DC hero uses a lasso of truth,Who is Wonder Woman?
+Marvel vs dc,200,This Marvel hero can shoot webs and climb walls,Who is Spider Man?
+Marvel vs dc,400,This DC hero is from the planet Krypton,Who is Superman?
+Marvel vs dc,400,This Marvel team includes Mr Fantastic Invisible Woman Human Torch and Thing,Who are the Fantastic Four?
+Marvel vs dc,400,This DC villain is known for his love of riddles,Who is the Riddler?
+Marvel vs dc,400,This Marvel villain seeks the Infinity Stones,Who is Thanos?
+Marvel vs dc,400,This DC hero runs at superhuman speed,Who is the Flash?
+Marvel vs dc,600,This Marvel villain is the brother of Thor,Who is Loki?
+Marvel vs dc,600,This DC antihero uses fear toxin,Who is Scarecrow?
+Marvel vs dc,600,This Marvel hero has claws and healing powers,Who is Wolverine?
+Marvel vs dc,600,This DC hero fights crime in Star City with a bow,Who is Green Arrow?
+Marvel vs dc,600,This Marvel hero controls metal with his mind,Who is Magneto?
+Marvel vs dc,800,This DC villain is known as the Clown Prince of Crime,Who is the Joker?
+Marvel vs dc,800,This Marvel group includes Rocket Groot and Star Lord,Who are the Guardians of the Galaxy?
+Marvel vs dc,800,This DC hero has a power ring from the Green Lantern Corps,Who is Green Lantern?
+Marvel vs dc,800,This Marvel hero turns big and green when angry,Who is the Hulk?
+Marvel vs dc,800,This DC villain is an eco terrorist connected to plants,Who is Poison Ivy?
+Marvel vs dc,1000,This Marvel villain devours entire planets,Who is Galactus?
+Marvel vs dc,1000,This DC villain is the intergalactic conqueror who wields Omega Beams,Who is Darkseid?
+Marvel vs dc,1000,This Marvel hero is the Sorcerer Supreme,Who is Doctor Strange?
+Marvel vs dc,1000,This DC hero is an Amazonian warrior and queen,Who is Hippolyta?
+Marvel vs dc,1000,This Marvel villain is a symbiote rival to Spider Man,Who is Venom?
+Video game characters,200,This Italian plumber is Nintendo’s mascot,Who is Mario?
+Video game characters,200,This blue hedgehog is known for speed,Who is Sonic?
+Video game characters,200,This character collects rings and battles Dr Eggman,Who is Sonic?
+Video game characters,200,This princess is often rescued in the Mushroom Kingdom,Who is Princess Peach?
+Video game characters,200,This yellow circular character eats pellets in mazes,Who is Pac Man?
+Video game characters,200,This green dinosaur is Marios companion in many games,Who is Yoshi?
+Video game characters,200,This pink character rolls around collecting fruit in PAC MAN games,Who is Ms Pac Man?
+Video game characters,200,This orange bandicoot stars in a PlayStation platforming series,Who is Crash Bandicoot?
+Video game characters,200,This cute creature from Pokemon evolves into Raichu,Who is Pichu?
+Video game characters,200,This round enemy in Mario games has spikes and bounces,What is a Spiny?
+Video game characters,400,This character wields the Master Sword in The Legend of Zelda,Who is Link?
+Video game characters,400,This bounty hunter wears an orange power suit in Metroid,Who is Samus Aran?
+Video game characters,400,This purple dragon breathes fire in a classic PlayStation series,Who is Spyro?
+Video game characters,400,This character is the main rival of Mario in racing and party games,Who is Luigi?
+Video game characters,400,This fox leads a team of space pilots in Star Fox,Who is Fox McCloud?
+Video game characters,400,This swordsman is known as the Hero of Time,Who is Link?
+Video game characters,400,This rival plumber wears green and is Marios brother,Who is Luigi?
+Video game characters,400,This crocodile king is the main villain of Donkey Kong Country,Who is King K Rool?
+Video game characters,400,This villain steals stars in Mario Party games,Who is Bowser Jr?
+Video game characters,400,This powerful psychic Pokemon appears in Super Smash Bros,Who is Mewtwo?
+Video game characters,600,This soldier fights aliens in the Halo series,Who is Master Chief?
+Video game characters,600,This monster hunter from The Witcher uses two swords,Who is Geralt of Rivia?
+Video game characters,600,This character fights dragons in Skyrim as the Dragonborn,Who is the Dovahkiin?
+Video game characters,600,This electric type Pokemon is the franchise mascot,Who is Pikachu?
+Video game characters,600,This hero in Overwatch uses a pulse bomb and can rewind time,Who is Tracer?
+Video game characters,600,This dark counterpart of Link appears in Zelda games,Who is Dark Link?
+Video game characters,600,This main character of Halo Reach sacrifices himself,Who is Noble Six?
+Video game characters,600,This Spartan warrior fights gods in a PlayStation series,Who is Kratos?
+Video game characters,600,This villager representative fights with bug nets in Smash Bros,Who is Villager?
+Video game characters,600,This masked hunter from Bloodborne wields trick weapons,Who is The Hunter?
+Video game characters,800,This masked fighter in Mortal Kombat uses ice powers,Who is Sub Zero?
+Video game characters,800,This plumber’s nemesis is a spiky shelled turtle,Who is Bowser?
+Video game characters,800,This stealthy assassin is the main protagonist of the first Assassin’s Creed,Who is Altair?
+Video game characters,800,This pink puffball can inhale enemies and copy abilities,Who is Kirby?
+Video game characters,800,This fighter pilots an armored suit and has an AI companion called Cortana,Who is Master Chief?
+Video game characters,800,This stealth hero in Tenchu uses ninjutsu and grappling hooks,Who is Rikimaru?
+Video game characters,800,This villain of Resident Evil 2 stalks the player relentlessly,Who is Mr X?
+Video game characters,800,This champion from League of Legends uses spinning axes,Who is Draven?
+Video game characters,800,This character is the main hero of Half Life,Who is Gordon Freeman?
+Video game characters,800,This time traveling hero wears green tunic in Zelda Ocarina of Time,Who is Link as Young Link?
+Video game characters,1000,This character is the main villain of the Final Fantasy VII series,Who is Sephiroth?
+Video game characters,1000,This female character explores tombs and ancient ruins,Who is Lara Croft?
+Video game characters,1000,This swordsman from Fire Emblem appears in Super Smash Bros,Who is Marth?
+Video game characters,1000,This robot hero of Capcom fights Dr Wily’s creations,Who is Mega Man?
+Video game characters,1000,This character from Metal Gear Solid sneaks in boxes and uses stealth tactics,Who is Solid Snake?
+Video game characters,1000,This scientist becomes a villain in Sonic series,Who is Dr Eggman?
+Video game characters,1000,This main villain of Borderlands 2 is charismatic and cruel,Who is Handsome Jack?
+Video game characters,1000,This character from Dark Souls is known as the Chosen Undead,Who is The Chosen Undead?
+Video game characters,1000,This vampire hunter wields the whip Vampire Killer,Who is Simon Belmont?
+Video game characters,1000,This cybernetic ninja from Overwatch wields a katana,Who is Genji?
+NFL trivia,200,This team’s colors are silver and black based in Las Vegas,Who are the Raiders?
+NFL trivia,200,This city is home to the Packers,What is Green Bay?
+NFL trivia,200,This position usually throws the football,What is Quarterback?
+NFL trivia,200,This trophy is awarded to the Super Bowl champion,What is the Vince Lombardi Trophy?
+NFL trivia,200,This team is known as America’s Team,Who are the Dallas Cowboys?
+NFL trivia,200,This city hosts the team called the Chiefs,What is Kansas City?
+NFL trivia,200,This player is nicknamed TB12,Who is Tom Brady?
+NFL trivia,200,This team has won the most Super Bowls tied with the Patriots,Who are the Pittsburgh Steelers?
+NFL trivia,200,This championship game decides who goes to the Super Bowl from the AFC,What is the AFC Championship?
+NFL trivia,200,This team’s fans perform the Skol chant,Who are the Minnesota Vikings?
+NFL trivia,400,This defensive player is known for his sack dance and played for the Giants,Who is Michael Strahan?
+NFL trivia,400,This player known as Beast Mode ran for a famous playoff touchdown,Who is Marshawn Lynch?
+NFL trivia,400,This QB led the 1972 Dolphins to a perfect season,Who is Bob Griese?
+NFL trivia,400,This team won the first two Super Bowls,Who are the Green Bay Packers?
+NFL trivia,400,This QB was the first pick of the 2020 NFL Draft,Who is Joe Burrow?
+NFL trivia,400,This QB was drafted by the Chargers but traded to the Giants in 2004,Who is Eli Manning?
+NFL trivia,400,This team’s mascot is a large bird named Swoop,Who are the Philadelphia Eagles?
+NFL trivia,400,This city is home to the Seahawks,What is Seattle?
+NFL trivia,400,This city is home to the Ravens,What is Baltimore?
+NFL trivia,400,This player caught the Helmet Catch in Super Bowl XLII,Who is David Tyree?
+NFL trivia,600,This wide receiver is nicknamed Megatron,Who is Calvin Johnson?
+NFL trivia,600,This player known as Prime Time played both football and baseball,Who is Deion Sanders?
+NFL trivia,600,This QB threw 55 touchdowns in the 2013 season,Who is Peyton Manning?
+NFL trivia,600,This team moved from St Louis to Los Angeles in 2016,Who are the Rams?
+NFL trivia,600,This defensive position lines up to tackle the quarterback or stop the run,What is Defensive End?
+NFL trivia,600,This team’s nickname is the Monsters of the Midway,Who are the Chicago Bears?
+NFL trivia,600,This kicker holds the record for the longest field goal at 66 yards,Who is Justin Tucker?
+NFL trivia,600,This city hosted the 2020 NFL Draft virtually,What is Las Vegas?
+NFL trivia,600,This stadium hosts the Dallas Cowboys home games,What is AT&T Stadium?
+NFL trivia,600,This QB was known as The Sheriff and played for the Colts and Broncos,Who is Peyton Manning?
+NFL trivia,800,This defensive lineman is known as the Minister of Defense,Who is Reggie White?
+NFL trivia,800,This QB was the first to throw for 5000 yards in a season,Who is Dan Marino?
+NFL trivia,800,This player known as Sweetness rushed for 16726 yards in his career,Who is Walter Payton?
+NFL trivia,800,This team won the Super Bowl after the 2009 season with Drew Brees,Who are the New Orleans Saints?
+NFL trivia,800,This quarterback led the Chiefs to a Super Bowl win in 2020,Who is Patrick Mahomes?
+NFL trivia,800,This NFL division includes the Cowboys Eagles Giants and Commanders,What is the NFC East?
+NFL trivia,800,This QB was known as Broadway Joe and guaranteed a Super Bowl win,Who is Joe Namath?
+NFL trivia,800,This team went to four straight Super Bowls and lost all of them,Who are the Buffalo Bills?
+NFL trivia,800,This NFL owner famously built the Dallas Cowboys into a powerhouse,Who is Jerry Jones?
+NFL trivia,800,This city hosted the Ice Bowl in 1967,What is Green Bay?
+NFL trivia,1000,This running back holds the record for most career rushing yards,Who is Emmitt Smith?
+NFL trivia,1000,This running back rushed for over 2000 yards in 1997 for the Lions,Who is Barry Sanders?
+NFL trivia,1000,This defensive back has the most career interceptions with 81,Who is Paul Krause?
+NFL trivia,1000,This QB is the only one to win Super Bowls with two different teams as starter,Who is Peyton Manning?
+NFL trivia,1000,This QB was the first to throw for 5000 yards in a season,Who is Dan Marino?
+NFL trivia,1000,This NFL event happens in April where college players are selected,What is the NFL Draft?
+NFL trivia,1000,This QB led the 1972 Dolphins to a perfect season,Who is Bob Griese?
+NFL trivia,1000,This team drafted Tom Brady in the sixth round,Who are the New England Patriots?
+NFL trivia,1000,This QB was known as The Sheriff and played for the Colts and Broncos,Who is Peyton Manning?
+NFL trivia,1000,This QB was the first pick of the 2020 NFL Draft,Who is Joe Burrow?
+GTA V,200,This fictional city in GTA V is based on Los Angeles,What is Los Santos?
+GTA V,200,This retired bank robber is one of the three protagonists,Who is Michael De Santa?
+GTA V,200,This street hustler dreams of making it big in Los Santos,Who is Franklin Clinton?
+GTA V,200,This unpredictable Canadian criminal is one of the three protagonists,Who is Trevor Philips?
+GTA V,200,This in game feature shows how wanted you are by police,What is the Wanted Level?
+GTA V,200,This dog belongs to Franklin in GTA V,Who is Chop?
+GTA V,200,This car customization shop lets you respray and upgrade vehicles,What is Los Santos Customs?
+GTA V,200,This activity can be played at Los Santos Golf Club,What is Golf?
+GTA V,200,This smartphone feature allows characters to take selfies,What is the Snapmatic App?
+GTA V,200,This social network in GTA V parodies Facebook,What is Lifeinvader?
+GTA V,400,This government agency parodies the FBI,What is the FIB?
+GTA V,400,This island added in an Online update hosts a big heist,What is Cayo Perico?
+GTA V,400,This military base contains tanks jets and a huge hangar,What is Fort Zancudo?
+GTA V,400,This liquor store can be robbed repeatedly for cash,What is a Convenience Store?
+GTA V,400,This celebrity missions photographer constantly harasses stars,What is Paparazzo?
+GTA V,400,This item lets players store vehicles safely,What is a Garage?
+GTA V,400,This armored truck can be hijacked for cash pickups,What is an Armored Van?
+GTA V,400,This aircraft can carry a car or small vehicle underneath,What is the Cargobob?
+GTA V,400,This area in Blaine County features a satellite array and UFO rumors,What is the Grand Senora Desert?
+GTA V,400,This Los Santos neighborhood is Franklin’s original home,What is Strawberry?
+GTA V,600,This Online heist involves robbing a casino,What is the Diamond Casino Heist?
+GTA V,600,This early mission teaches you to repossess cars for Simeon,What is Franklin and Lamar?
+GTA V,600,This group of antagonists wear green and are Franklin’s old gang,Who are the Families?
+GTA V,600,This antagonist tortures a man during an infamous mission,Who is Trevor Philips?
+GTA V,600,This plane hijacking mission ends with you taking over a military cargo plane,What is Minor Turbulence?
+GTA V,600,This Online business lets you buy and sell illegal narcotics,What is a Motorcycle Club?
+GTA V,600,This feature in GTA V lets you invest money and manipulate the stock market,What is the BAWSAQ or LCN?
+GTA V,600,This main road runs along the west coast of Los Santos County,What is Great Ocean Highway?
+GTA V,600,This rare animal appears on Mount Chiliad and can be hunted,What is the Mountain Lion?
+GTA V,600,This NPC gives assassination missions to Franklin,Who is Lester Crest?
+GTA V,800,This GTA V main heist has you robbing a jewelry store,What is The Jewel Store Job?
+GTA V,800,This strip club is frequently featured in the story and Online,What is Vanilla Unicorn?
+GTA V,800,This villain runs the Merryweather private security company,What is Merryweather Security?
+GTA V,800,This Online update allowed you to run nightclubs,What is After Hours?
+GTA V,800,This property north of Los Santos can be bought and includes a hangar,What is McKenzie Airfield?
+GTA V,800,This aircraft is a personal jet with luxury interior,What is the Luxor Deluxe?
+GTA V,800,This GTA V mural on Mount Chiliad spawned countless conspiracy theories,What is the Mount Chiliad Mystery?
+GTA V,800,This supercar is based on the Bugatti Veyron in GTA V,What is the Adder?
+GTA V,800,This area in Paleto Bay is home to a key heist,What is the Paleto Bay Bank?
+GTA V,800,This radio station hosted by DJ George features funk and soul classics,What is Space 103.2?
+GTA V,1000,This GTA V achievement is earned by completing the game without dying,What is Unmarked?
+GTA V,1000,This secret ghost can be seen on Mount Gordo at night,What is Jolene Cranley Evans?
+GTA V,1000,This UFO appears over Fort Zancudo after 100 percent completion,What is the Alien UFO?
+GTA V,1000,This Easter egg lets players find a frozen alien under a bridge,What is the Frozen Alien?
+GTA V,1000,This Online submarine headquarters lets you launch missions,What is the Kosatka Submarine?
+GTA V,1000,This hidden interior can be accessed in single player via glitch at a city landmark,What is the FIB Building Interior?
+GTA V,1000,This special drug trip mission turns Trevor into a clumsy clapping clown killer,What is The Grass Roots Missions?
+GTA V,1000,This vehicle in Online can fly and has missiles making it notorious,What is the Oppressor Mk II?
+GTA V,1000,This rare peyote plant turns players into Bigfoot,What is the Bigfoot
+Fantasy football,200,This is the most common format of fantasy football scoring,What is PPR or Standard Scoring?
+Fantasy football,200,This NFL position typically scores the most points per game,What is Quarterback?
+Fantasy football,200,This type of player catches passes from quarterbacks,What is Wide Receiver?
+Fantasy football,200,This type of player runs the ball and can also catch passes,What is Running Back?
+Fantasy football,200,This draft position gives you the first pick of the round,What is the 1.01 or First Overall Pick?
+Fantasy football,200,This is the most common number of teams in a fantasy league,What is 10 or 12?
+Fantasy football,200,This weekly process allows you to add free agents to your roster,What is Waiver Wire?
+Fantasy football,200,This is the term for the end of the fantasy season playoffs,What is the Fantasy Championship?
+Fantasy football,200,This roster slot is where you place players not starting that week,What is the Bench?
+Fantasy football,200,This NFL week is usually avoided by commissioners for championships due to resting starters,What is Week 18?
+Fantasy football,400,This strategy waits until later rounds to pick a QB,What is Late Round Quarterback Strategy?
+Fantasy football,400,This is the term for a player who scores far more than their average in one week,What is a Boom Week?
+Fantasy football,400,This is the term for a player who scores far less than their average in one week,What is a Bust Week?
+Fantasy football,400,This type of draft uses real money bids instead of snake picks,What is an Auction Draft?
+Fantasy football,400,This roster spot is used for injured players who may return later,What is the IR Spot?
+Fantasy football,400,This scoring setting gives points for 100 yard rushing or receiving games,What is Yardage Bonus?
+Fantasy football,400,This term describes using two running backs from the same team,What is a Handcuff or RB Handcuff?
+Fantasy football,400,This is the day of the week when most NFL games are played,What is Sunday?
+Fantasy football,400,This scoring format gives points for return yards,What is Special Teams or Return Yardage Scoring?
+Fantasy football,400,This lineup slot can be filled by a running back wide receiver or tight end,What is the Flex Spot?
+Fantasy football,600,This NFL player holds the record for most rushing yards in a single game,Who is Adrian Peterson?
+Fantasy football,600,This player was the first rookie RB to score over 300 fantasy points in PPR,Who is Saquon Barkley?
+Fantasy football,600,This term describes when a fantasy manager starts a player who is on a bye week,What is a Bye Week Blunder?
+Fantasy football,600,This draft strategy focuses on selecting WRs early,What is Zero RB Strategy?
+Fantasy football,600,This position is typically the last drafted on fantasy teams,What is Defense or Kicker?
+Fantasy football,600,This NFL RB earned the nickname “Run CMC” for his fantasy dominance,Who is Christian McCaffrey?
+Fantasy football,600,This type of league has players for multiple years with rookie drafts,What is a Dynasty League?
+Fantasy football,600,This term describes trading multiple players for one star,What is a 2 for 1 or Package Deal?
+Fantasy football,600,This waiver system gives every team equal chance but rotates priority,What is Rolling Waivers?
+Fantasy football,600,This fantasy point total is commonly called the Mendoza Line for QBs,What is 20 Fantasy Points?
+Fantasy football,800,This 2019 fantasy MVP QB scored over 400 fantasy points,Who is Lamar Jackson?
+Fantasy football,800,This TE led all tight ends in fantasy scoring for several years in Kansas City,Who is Travis Kelce?
+Fantasy football,800,This term refers to a player who produces more than expected for their draft slot,What is a Sleeper?
+Fantasy football,800,This term refers to a player who produces far less than expected for their draft slot,What is a Bust?
+Fantasy football,800,This type of scoring gives 6 points per passing TD instead of 4,What is 6 Point Passing TD League?
+Fantasy football,800,This RB for the Titans ran for over 2000 yards in 2020,Who is Derrick Henry?
+Fantasy football,800,This QB won back to back MVPs in 2020 and 2021 for Green Bay,Who is Aaron Rodgers?
+Fantasy football,800,This type of trade is vetoed when league managers find it unfair,What is a Collusion Trade?
+Fantasy football,800,This fantasy playoff format allows highest remaining score to advance each round,What is Guillotine League or Survivor Format?
+Fantasy football,800,This waiver system gives teams a budget to bid on players,What is FAAB or Free Agent Auction Budget?
+Fantasy football,1000,This WR scored the most fantasy points in a single season with 2007 Patriots,Who is Randy Moss?
+Fantasy football,1000,This QB set the single season fantasy record with over 480 points in 2018,Who is Patrick Mahomes?
+Fantasy football,1000,This nickname refers to the dangerous practice of starting a player from Thursday night without checking injuries,What is the Thursday Night Trap?
+Fantasy football,1000,This term describes replacing an injured starter with their direct backup,What is Next Man Up?
+Fantasy football,1000,This advanced stat measures how many points above replacement a player is worth,What is VORP or Value Over Replacement Player?
+Fantasy football,1000,This type of league has no trades waivers or lineups everything is automated,What is a Best Ball League?
+Fantasy football,1000,This rookie QB was drafted first overall in 2021 and became a fantasy starter,Who is Trevor Lawrence?
+Fantasy football,1000,This scoring bonus awards points for long TDs over 40 yards,What is a Big Play Bonus?
+Fantasy football,1000,This WR for the Vikings became a fantasy star with gritty celebrations,Who is Justin Jefferson?
+Fantasy football,1000,This strategy involves streaming defenses or QBs based on opponent each week,What is Streaming?
+Fantasy football,1000,This RB for the Browns broke out in 2020 with over 1600 rushing yards,Who is Nick Chubb?
+Cars,200,This American company makes the Mustang,What is Ford?
+Cars,200,This German brand uses a three pointed star logo,What is Mercedes Benz?
+Cars,200,This Japanese company makes the Corolla and Camry,What is Toyota?
+Cars,200,This Italian company makes the Ferrari sports car,What is Ferrari?
+Cars,200,This brand makes the F 150 pickup truck,What is Ford?
+Cars,200,This company produces the Civic and Accord,What is Honda?
+Cars,200,This car feature uses GPS to guide drivers,What is Navigation or GPS?
+Cars,200,This pedal on the left is used to stop the car,What is the Brake Pedal?
+Cars,200,This fuel type powers most traditional cars,What is Gasoline?
+Cars,200,This is the American term for the back storage area of a car,What is the Trunk?
+Cars,400,This American company produces the Corvette sports car,What is Chevrolet?
+Cars,400,This car company produces the luxury brand Lexus,What is Toyota?
+Cars,400,This car part connects the steering wheel to the wheels,What is the Steering Column?
+Cars,400,This brand produces the Model S electric car,What is Tesla?
+Cars,400,This Japanese automaker makes the WRX and Outback,What is Subaru?
+Cars,400,This German car brand makes the 911 sports car,What is Porsche?
+Cars,400,This U.S. law requires seatbelts in all new cars after 1968,What is Federal Motor Vehicle Safety Standard?
+Cars,400,This component cools the engine and contains coolant,What is the Radiator?
+Cars,400,This type of transmission shifts gears automatically,What is Automatic Transmission?
+Cars,400,This part stores electrical energy to start the car,What is the Battery?
+Cars,600,This Italian sports car company makes the Aventador,What is Lamborghini?
+Cars,600,This car system controls emissions and uses a catalytic converter,What is the Exhaust System?
+Cars,600,This American company was founded by Henry Ford in 1903,What is Ford Motor Company?
+Cars,600,This term describes the distance a car has traveled,What is Mileage?
+Cars,600,This Japanese carmaker is famous for its rotary engine RX 7,What is Mazda?
+Cars,600,This brand developed the Quattro all wheel drive system,What is Audi?
+Cars,600,This large American vehicle combines passenger space with truck chassis,What is an SUV?
+Cars,600,This part converts engine power into rotational force for wheels,What is the Transmission?
+Cars,600,This French brand makes the Clio and Megane,What is Renault?
+Cars,600,This fluid is essential for hydraulic braking systems,What is Brake Fluid?
+Cars,800,This safety device inflates in a crash to protect passengers,What is an Airbag?
+Cars,800,This brand makes the luxury 7 Series sedan,What is BMW?
+Cars,800,This American sports car is nicknamed the Vette,What is the Corvette?
+Cars,800,This Japanese hybrid car became famous for fuel economy,What is the Toyota Prius?
+Cars,800,This Italian luxury brand uses a trident logo,What is Maserati?
+Cars,800,This part of the car measures engine revolutions per minute,What is the Tachometer?
+Cars,800,This company makes the Challenger and Charger muscle cars,What is Dodge?
+Cars,800,This American automaker makes the Escalade SUV,What is Cadillac?
+Cars,800,This small spare wheel is used in emergencies,What is a Donut Spare?
+Cars,800,This type of car roof can fold back for open air driving,What is a Convertible?
+Cars,1000,This Bugatti model once held the record as fastest production car,What is the Veyron?
+Cars,1000,This carmaker created the Skyline GT R,What is Nissan?
+Cars,1000,This type of forced induction uses exhaust gases to spin a turbine,What is a Turbocharger?
+Cars,1000,This racing series features cars like Formula 1,What is Open Wheel Racing?
+Cars,1000,This safety feature prevents wheels from locking during braking,What is ABS or Anti Lock Brakes?
+Cars,1000,This Swedish automaker produces the Koenigsegg hypercars,What is Koenigsegg?
+Cars,1000,This American car brand introduced the Hellcat engine,What is Dodge?
+Cars,1000,This feature measures how quickly a car goes from 0 to 60 mph,What is Acceleration Time?
+Cars,1000,This type of drive sends power to all four wheels,What is All Wheel Drive?
+Cars,1000,This French luxury brand created the Chiron hypercar,What is Bugatti?
+California trivia,200,This is the capital city of California,What is Sacramento?
+California trivia,200,This city is known for the Golden Gate Bridge,What is San Francisco?
+California trivia,200,This city is home to Disneyland,What is Anaheim?
+California trivia,200,This desert covers much of southeastern California,What is the Mojave Desert?
+California trivia,200,This national park is famous for giant sequoia trees,What is Yosemite National Park?
+California trivia,200,This state animal appears on the California state flag,What is the Grizzly Bear?
+California trivia,200,This city hosts the Rose Parade and Rose Bowl game,What is Pasadena?
+California trivia,200,This famous coastal highway runs along California’s Pacific Coast,What is Highway 1 or Pacific Coast Highway?
+California trivia,200,This California city is known for the Hollywood sign,What is Los Angeles?
+California trivia,200,This valley produces most of the state’s wine,What is Napa Valley?
+California trivia,400,This city is the largest in California by population,What is Los Angeles?
+California trivia,400,This fault line runs through much of California and causes earthquakes,What is the San Andreas Fault?
+California trivia,400,This mountain range separates California’s Central Valley from the desert,What are the Sierra Nevada Mountains?
+California trivia,400,This California city hosted the 1984 Summer Olympics,What is Los Angeles?
+California trivia,400,This university is located in Berkeley California,What is the University of California Berkeley?
+California trivia,400,This city is home to tech giants like Google and Facebook,What is Mountain View or Menlo Park?
+California trivia,400,This theme park in Valencia features roller coasters like Twisted Colossus,What is Six Flags Magic Mountain?
+California trivia,400,This California city’s Chinatown is the oldest in North America,What is San Francisco?
+California trivia,400,This desert park features Joshua trees,What is Joshua Tree National Park?
+California trivia,400,This bay separates San Francisco and Oakland,What is the San Francisco Bay?
+California trivia,600,This California city is the seat of the entertainment industry,What is Burbank?
+California trivia,600,This region in Northern California is known for redwood forests,What is Humboldt County?
+California trivia,600,This city is known as Surf City USA,What is Huntington Beach?
+California trivia,600,This mountain is the highest point in the contiguous United States,What is Mount Whitney?
+California trivia,600,This gold rush year led thousands to California,What is 1849?
+California trivia,600,This California lake is the largest alpine lake in North America,What is Lake Tahoe?
+California trivia,600,This island prison in San Francisco Bay was once home to Al Capone,What is Alcatraz Island?
+California trivia,600,This city is famous for its canals and boardwalk,What is Venice Beach?
+California trivia,600,This Northern California city is known for its State Capitol building,What is Sacramento?
+California trivia,600,This scenic drive stretches from Monterey to Morro Bay,What is Big Sur?
+California trivia,800,This California city is home to the Getty Center and Griffith Observatory,What is Los Angeles?
+California trivia,800,This California region produces most of the nation’s almonds,What is the Central Valley?
+California trivia,800,This ghost town in the Sierra Nevada is now a state park,What is Bodie?
+California trivia,800,This city is known for the Gaslamp Quarter and beaches,What is San Diego?
+California trivia,800,This pass connects California’s Central Valley with Los Angeles,What is the Grapevine or Tejon Pass?
+California trivia,800,This historic route begins in Chicago and ends in Santa Monica,What is Route 66?
+California trivia,800,This naval base city is located across the bay from San Diego,What is Coronado?
+California trivia,800,This California city is home to Apple’s headquarters,What is Cupertino?
+California trivia,800,This wine region lies just north of San Francisco and neighbors Napa,What is Sonoma?
+California trivia,800,This mountain range borders California’s eastern edge,What are the White Mountains?
+California trivia,1000,This California city was the site of a famous 1960s counterculture festival known as the Summer of Love,What is San Francisco?
+California trivia,1000,This desert city hosts the Coachella Valley Music and Arts Festival,What is Indio?
+California trivia,1000,This region near Mammoth Lakes has geothermal activity and hot springs,What is the Long Valley Caldera?
+California trivia,1000,This fault rupture caused a major earthquake in 1906,What is the San Francisco Earthquake?
+California trivia,1000,This California city houses the first mission established by the Spanish,What is San Diego?
+California trivia,1000,This coastal city north of LA is known as the American Riviera,What is Santa Barbara?
+California trivia,1000,This Central Coast region is known for Hearst Castle,What is San Simeon?
+California trivia,1000,This isolated California city is home to Death Valley National Park,What is Furnace Creek or Stovepipe Wells?
+California trivia,1000,This area near Sacramento was the site of the first major gold discovery,What is Sutter’s Mill in Coloma?
+California trivia,1000,This California university is famous for its banana slug mascot,What is UC Santa Cruz?
+Better Call Saul,200,This is the real name of the lawyer known as Saul Goodman,Who is Jimmy McGill?
+Better Call Saul,200,This law firm employs Jimmy and Kim at the start of the series,What is Hamlin Hamlin and McGill?
+Better Call Saul,200,This character is Jimmy’s older brother with electromagnetic sensitivity,Who is Chuck McGill?
+Better Call Saul,200,This parking attendant becomes an important fixer later in the series,Who is Mike Ehrmantraut?
+Better Call Saul,200,This actress plays Kim Wexler,Who is Rhea Seehorn?
+Better Call Saul,200,This desert state is where the show is set,What is New Mexico?
+Better Call Saul,200,This fast food restaurant serves as Gus Fring’s legitimate business,What is Los Pollos Hermanos?
+Better Call Saul,200,This judge approves Jimmy’s law license reinstatement,What is Judge Papadoumian?
+Better Call Saul,200,This Breaking Bad character owns a vacuum repair shop that disappears people,Who is Ed Galbraith?
+Better Call Saul,200,This is the name Jimmy uses when filming low budget commercials,What is Saul Goodman?
+Better Call Saul,400,This cartel member intimidates Jimmy during a desert trip,Who is Lalo Salamanca?
+Better Call Saul,400,This object Chuck wraps himself in to avoid electricity,What is a Space Blanket?
+Better Call Saul,400,This character becomes Kim’s client in a major Mesa Verde case,Who is Everett Acker?
+Better Call Saul,400,This character helps Mike clean up after crimes and is a vet,Who is Dr Caldera?
+Better Call Saul,400,This character runs a nail salon that houses Jimmy’s office,Who is Mrs Nguyen?
+Better Call Saul,400,This character drives the ice cream truck for Salamanca operations,Who is Nacho Varga?
+Better Call Saul,400,This slogan Jimmy invents rhymes with Better Call Saul,What is Need a Lawyer Better Call Saul?
+Better Call Saul,400,This major chain bank is Kim’s client that expands in New Mexico,What is Mesa Verde?
+Better Call Saul,400,This person orders Mike to kill Werner Ziegler,Who is Gus Fring?
+Better Call Saul,400,This giant underground structure is built for Gus’s future meth lab,What is The Superlab?
+Better Call Saul,600,This sequence shows Jimmy’s life after Breaking Bad working at a mall,What is the Cinnabon Gene Timeline?
+Better Call Saul,600,This courtroom tactic Jimmy uses involves filming commercials with seniors,What is the Sandpiper Scam?
+Better Call Saul,600,This cartel leader is paralyzed and communicates with a bell,Who is Hector Salamanca?
+Better Call Saul,600,This character warns Kim about Jimmy’s dark side,Who is Howard Hamlin?
+Better Call Saul,600,This company builds the underground lab for Gus,What is Madrigal Electromotive or Werner’s Crew?
+Better Call Saul,600,This episode reveals Kim’s traumatic childhood shoplifting scene,What is Wexler v Goodman?
+Better Call Saul,600,This cartel member is executed by Nacho to gain t
+Synonyms and antonyms,200,This is a synonym for happy,What is Joyful?
+Synonyms and antonyms,200,This is an antonym for hot,What is Cold?
+Synonyms and antonyms,200,This is a synonym for fast,What is Quick?
+Synonyms and antonyms,200,This is an antonym for up,What is Down?
+Synonyms and antonyms,200,This is a synonym for big,What is Large?
+Synonyms and antonyms,200,This is an antonym for loud,What is Quiet?
+Synonyms and antonyms,200,This is a synonym for smart,What is Intelligent?
+Synonyms and antonyms,200,This is an antonym for start,What is Stop?
+Synonyms and antonyms,200,This is a synonym for cold,What is Chilly?
+Synonyms and antonyms,200,This is an antonym for open,What is Closed?
+Synonyms and antonyms,400,This is a synonym for angry,What is Mad?
+Synonyms and antonyms,400,This is an antonym for early,What is Late?
+Synonyms and antonyms,400,This is a synonym for strong,What is Powerful?
+Synonyms and antonyms,400,This is an antonym for above,What is Below?
+Synonyms and antonyms,400,This is a synonym for funny,What is Hilarious?
+Synonyms and antonyms,400,This is an antonym for full,What is Empty?
+Synonyms and antonyms,400,This is a synonym for begin,What is Commence?
+Synonyms and antonyms,400,This is an antonym for friend,What is Enemy?
+Synonyms and antonyms,400,This is a synonym for small,What is Tiny?
+Synonyms and antonyms,400,This is an antonym for hard,What is Soft?
+Synonyms and antonyms,600,This is a synonym for honest,What is Truthful?
+Synonyms and antonyms,600,This is an antonym for generous,What is Stingy?
+Synonyms and antonyms,600,This is a synonym for dangerous,What is Hazardous?
+Synonyms and antonyms,600,This is an antonym for accept,What is Reject?
+Synonyms and antonyms,600,This is a synonym for tired,What is Exhausted?
+Synonyms and antonyms,600,This is an antonym for success,What is Failure?
+Synonyms and antonyms,600,This is a synonym for brave,What is Courageous?
+Synonyms and antonyms,600,This is an antonym for expand,What is Contract?
+Synonyms and antonyms,600,This is a synonym for easy,What is Simple?
+Synonyms and antonyms,600,This is an antonym for smooth,What is Rough?
+Synonyms and antonyms,800,This is a synonym for stubborn,What is Obstinate?
+Synonyms and antonyms,800,This is an antonym for ancient,What is Modern?
+Synonyms and antonyms,800,This is a synonym for weak,What is Frail?
+Synonyms and antonyms,800,This is an antonym for include,What is Exclude?
+Synonyms and antonyms,800,This is a synonym for calm,What is Serene?
+Synonyms and antonyms,800,This is an antonym for visible,What is Invisible?
+Synonyms and antonyms,800,This is a synonym for tired but also bored,What is Weary?
+Synonyms and antonyms,800,This is an antonym for success in sports,What is Defeat?
+Synonyms and antonyms,800,This is a synonym for hungry,What is Ravenous?
+Synonyms and antonyms,800,This is an antonym for generous about sharing money,What is Miserly?
+Synonyms and antonyms,1000,This is a synonym for talkative,What is Loquacious?
+Synonyms and antonyms,1000,This is an antonym for obscure,What is Famous?
+Synonyms and antonyms,1000,This is a synonym for tricky or deceitful,What is Devious?
+Synonyms and antonyms,1000,This is an antonym for permanent,What is Temporary?
+Synonyms and antonyms,1000,This is a synonym for very important,What is Crucial?
+Synonyms and antonyms,1000,This is an antonym for increase,What is Decrease?
+Synonyms and antonyms,1000,This is a synonym for very detailed,What is Meticulous?
+Synonyms and antonyms,1000,This is an antonym for ordinary,What is Extraordinary?
+Synonyms and antonyms,1000,This is a synonym for very small,What is Minuscule?
+Synonyms and antonyms,1000,This is an antonym for artificial,What is Natural?
+Synonyms and antonyms,1000,This is a synonym for very funny,What is Hysterical?
+Puns and riddles,200,I’m tall when I’m young and short when I’m old What am I,What is a Candle?
+Puns and riddles,200,Why did the scarecrow win an award,What is He was outstanding in his field?
+Puns and riddles,200,I’m full of holes but I hold water What am I,What is a Sponge?
+Puns and riddles,200,Why don’t scientists trust atoms,What is Because they make up everything?
+Puns and riddles,200,What has keys but can’t open locks,What is a Piano?
+Puns and riddles,200,Why was the math book sad,What is It had too many problems?
+Puns and riddles,200,What has to be broken before you can use it,What is an Egg?
+Puns and riddles,200,Why did the golfer bring two pairs of pants,What is In case he got a hole in one?
+Puns and riddles,200,What runs but never walks has a bed but never sleeps,What is a River?
+Puns and riddles,200,Why did the computer go to therapy,What is It had too many bytes?
+Puns and riddles,400,What has hands but cannot clap,What is a Clock?
+Puns and riddles,400,Why did the tomato turn red,What is Because it saw the salad dressing?
+Puns and riddles,400,What has a head a tail but no body,What is a Coin?
+Puns and riddles,400,Why can’t your nose be 12 inches long,What is Because then it would be a foot?
+Puns and riddles,400,What comes down but never goes up,What is Rain?
+Puns and riddles,400,Why did the bicycle fall over,What is Because it was two tired?
+Puns and riddles,400,What belongs to you but others use it more,What is Your Name?
+Puns and riddles,400,Why did the stadium get hot,What is Because all the fans left?
+Puns and riddles,400,What has an eye but cannot see,What is a Needle?
+Puns and riddles,400,Why did the music teacher go to the principal,What is She found herself in treble?
+Puns and riddles,600,What goes up but never comes down,What is Your Age?
+Puns and riddles,600,Why did the cookie go to the hospital,What is Because it felt crummy?
+Puns and riddles,600,What can travel around the world but stays in a corner,What is a Stamp?
+Puns and riddles,600,Why did the chicken go to the seance,What is To get to the other side?
+Puns and riddles,600,What has many teeth but cannot bite,What is a Comb?
+Puns and riddles,600,Why did the broom get a promotion,What is Because it swept the competition?
+Puns and riddles,600,What begins with E ends with E but only contains one letter,What is an Envelope?
+Puns and riddles,600,Why can’t you give Elsa a balloon,What is Because she will let it go?
+Puns and riddles,600,What kind of room has no doors or windows,What is a Mushroom?
+Puns and riddles,600,Why did the picture go to jail,What is Because it was framed?
+Puns and riddles,800,What has cities but no houses mountains but no trees and water but no fish,What is a Map?
+Puns and riddles,800,Why was the belt arrested,What is Because it held up a pair of pants?
+Puns and riddles,800,What can you catch but not throw,What is a Cold?
+Puns and riddles,800,Why did the coffee file a police report,What is Because it got mugged?
+Puns and riddles,800,What has words but never speaks,What is a Book?
+Puns and riddles,800,Why was the graveyard so noisy,What is Because of all the coffin?
+Puns and riddles,800,What has one eye but can’t see and moves fast,What is a Hurricane?
+Puns and riddles,800,Why did the scarecrow become a neurosurgeon,What is Because he was outstanding in his field?
+Puns and riddles,800,What has an end but no beginning and a home but no family,What is a Road?
+Puns and riddles,800,Why did the barber win the race,What is Because he knew all the shortcuts?
+Puns and riddles,1000,The more of me you take the more you leave behind What am I,What are Footsteps?
+Puns and riddles,1000,Why don’t graveyards ever get overcrowded,What is Because people are dying to get in?
+Puns and riddles,1000,What has four wheels and flies,What is a Garbage Truck?
+Puns and riddles,1000,Why did the math teacher open a window,What is Because she wanted a little class outside?
+Puns and riddles,1000,What can run but has no legs and whistles without a mouth,What is a Train?
+Puns and riddles,1000,Why did the fisherman put peanut butter on his fishing line,What is To catch a jellyfish?
+Puns and riddles,1000,What comes once in a minute twice in a moment but never in a thousand years,What is the Letter M?
+Puns and riddles,1000,Why did the smartphone go to school,What is Because it wanted to be smarter?
+Puns and riddles,1000,What is always in front of you but can’t be seen,What is the Future?
+Puns and riddles,1000,Why did the skeleton go to the party alone,What is Because he had no body to go with?
+Alcohol,200,This alcoholic beverage is made from fermented grapes,What is Wine?
+Alcohol,200,This Mexican drink is made from blue agave,What is Tequila?
+Alcohol,200,This brewed drink is often served in pints and has hops,What is Beer?
+Alcohol,200,This clear Russian spirit is often served chilled in shots,What is Vodka?
+Alcohol,200,This type of drink includes rum lime and sugar and comes from Cuba,What is a Mojito?
+Alcohol,200,This drink is made from fermented apples,What is Cider?
+Alcohol,200,This Italian sparkling wine is often used for toasts,What is Prosecco?
+Alcohol,200,This dark Irish beer is known for its creamy head,What is Guinness?
+Alcohol,200,This type of drink is made from grains and aged in barrels,What is Whiskey?
+Alcohol,200,This French sparkling wine can only come from a specific region,What is Champagne?
+Alcohol,400,This spirit from the Caribbean is made from sugarcane,What is Rum?
+Alcohol,400,This type of liquor is made from distilled wine and aged in oak barrels,What is Brandy?
+Alcohol,400,This strong green spirit is famous for its high proof and anise flavor,What is Absinthe?
+Alcohol,400,This Japanese rice wine is traditionally served warm,What is Sake?
+Alcohol,400,This spirit is often infused with juniper berries,What is Gin?
+Alcohol,400,This Mexican cocktail combines tequila grapefruit soda and lime,What is a Paloma?
+Alcohol,400,This American spirit is a type of whiskey from Kentucky,What is Bourbon?
+Alcohol,400,This Italian bitter liqueur is used in Negronis,What is Campari?
+Alcohol,400,This French brandy is produced only in Cognac region,What is Cognac?
+Alcohol,400,This type of beer is brewed at warmer temperatures and ferments at the top,What is Ale?
+Alcohol,600,This South American spirit is made from grapes and used in Pisco Sour,What is Pisco?
+Alcohol,600,This type of fortified wine is from Portugal,What is Port?
+Alcohol,600,This German beer festival is the largest in the world,What is Oktoberfest?
+Alcohol,600,This Scottish whisky region includes Islay and Speyside,What is Scotland or Scotch Whisky?
+Alcohol,600,This orange liqueur is used in margaritas,What is Triple Sec or Cointreau?
+Alcohol,600,This Caribbean rum brand is known for its bat logo,What is Bacardi?
+Alcohol,600,This type of beer is aged in cold conditions for a smooth taste,What is Lager?
+Alcohol,600,This fruit flavored Japanese liqueur is bright green and melon flavored,What is Midori?
+Alcohol,600,This Irish cream liqueur is made with whiskey and cream,What is Baileys?
+Alcohol,600,This brand of Tennessee whiskey is known for its black label,What is Jack Daniels?
+Alcohol,800,This liqueur from the Alps is made with 56 herbs and spices,What is Jägermeister?
+Alcohol,800,This Mexican drink is mezcal with a worm in the bottle,What is Mezcal?
+Alcohol,800,This bitters ingredient is essential for an Old Fashioned,What is Angostura Bitters?
+Alcohol,800,This Italian sparkling wine region neighbors Piedmont,What is Asti?
+Alcohol,800,This South African fortified wine is named after a Dutch settlement,What is Constantia?
+Alcohol,800,This drink mixes whiskey sweet vermouth and bitters,What is a Manhattan?
+Alcohol,800,This Spanish wine punch contains fruit and brandy,What is Sangria?
+Alcohol,800,This famous Kentucky horse race is associated with mint juleps,What is the Kentucky Derby?
+Alcohol,800,This country invented vodka,What is Russia?
+Alcohol,800,This type of whiskey is made mostly from rye grain,What is Rye Whiskey?
+Alcohol,1000,This monk-created liqueur has a secret recipe of 130 herbs,What is Chartreuse?
+Alcohol,1000,This traditional Icelandic spirit is made from potatoes or grain,What is Brennivín?
+Alcohol,1000,This ancient alcoholic drink is made from fermented honey,What is Mead?
+Alcohol,1000,This blue curaçao cocktail is named after a beach paradise,What is Blue Lagoon?
+Alcohol,1000,This Italian dessert wine shares its name with a small cake,What is Marsala?
+Alcohol,1000,This fortified wine from southern Spain is aged in a solera system,What is Sherry?
+Alcohol,1000,This rum based drink is blended with coconut cream and pineapple juice,What is Piña Colada?
+Alcohol,1000,This famous Scotch whisky is aged 18 years and has a red label variant,What is Johnnie Walker?
+Alcohol,1000,This South American fermented drink is made from maize,What is Chicha?
+Alcohol,1000,This liquor traditionally served with salt and lime is produced in Jalisco Mexico,What is Tequila?
+Florida Man headlines,200,Florida Man arrested for riding this animal through a Walmart parking lot,What is an Alligator?
+Florida Man headlines,200,Florida Man throws this breakfast food at his girlfriend during an argument,What are Pancakes?
+Florida Man headlines,200,Florida Man claims his dog drove this type of vehicle into a tree,What is a Car?
+Florida Man headlines,200,Florida Man steals police cruiser and tries to pull over this type of vehicle,What is a School Bus?
+Florida Man headlines,200,Florida Man arrested after trying to trade this reptile for beer at a convenience store,What is a Live Iguana?
+Florida Man headlines,200,Florida Man breaks into home to cook this food and take a nap,What are Eggs?
+Florida Man headlines,200,Florida Man caught on camera wrestling this animal in his backyard,What is an Alligator?
+Florida Man headlines,200,Florida Man calls 911 to report this fast food order was wrong,What is a Cheeseburger?
+Florida Man headlines,200,Florida Man found relaxing on a stranger’s porch with this inflatable toy,What is a Pool Float?
+Florida Man headlines,200,Florida Man arrested for throwing this citrus fruit at passing cars,What are Oranges?
+Florida Man headlines,400,Florida Man arrested for stealing this giant mascot costume from a theme park,What is a Mickey Mouse Costume?
+Florida Man headlines,400,Florida Man pulls over to help turtle cross the road but instead does this,What is Starts a Traffic Jam?
+Florida Man headlines,400,Florida Man tries to escape police on this two wheeled motorized board,What is a Segway?
+Florida Man headlines,400,Florida Man claims to be time traveler from this year while intoxicated,What is the Year 2045?
+Florida Man headlines,400,Florida Man arrested for tossing this frozen dessert at police,What is Ice Cream?
+Florida Man headlines,400,Florida Man sets fire to neighbor’s lawn with this household item,What is a Hair Dryer?
+Florida Man headlines,400,Florida Man sneaks into stadium to do this on the field,What is Ride a Lawn Mower?
+Florida Man headlines,400,Florida Man caught trying to smuggle this into a courthouse in his pants,What is a Snake?
+Florida Man headlines,400,Florida Man builds this vehicle out of shopping carts and duct tape,What is a Raft?
+Florida Man headlines,400,Florida Man banned from zoo after feeding this to monkeys,What are Doritos?
+Florida Man headlines,600,Florida Man arrested for launching fireworks inside this fast food restaurant,What is Taco Bell?
+Florida Man headlines,600,Florida Man tries to rob store wearing this as a disguise,What is a Transparent Bag?
+Florida Man headlines,600,Florida Man attempts to marry this household appliance,What is a Microwave?
+Florida Man headlines,600,Florida Man accused of stealing this mascot costume during spring break,What is a Flamingo Costume?
+Florida Man headlines,600,Florida Man drives into lake after following directions from this app,What is GPS?
+Florida Man headlines,600,Florida Man arrested for sword fighting with this item at beach bar,What are Pool Noodles?
+Florida Man headlines,600,Florida Man climbs on top of this vehicle to surf during rush hour,What is a Police Car?
+Florida Man headlines,600,Florida Man calls 911 to report missing this illegal substance,What is Marijuana?
+Florida Man headlines,600,Florida Man bites this animal at petting zoo claiming self defense,What is a Camel?
+Florida Man headlines,600,Florida Man arrested for holding this type of reptile hostage for ransom,What is a Crocodile?
+Florida Man headlines,800,Florida Man caught painting this on public property at 3 a.m.,What is a Mural of Himself?
+Florida Man headlines,800,Florida Man builds homemade rocket to reach this planet,What is Mars?
+Florida Man headlines,800,Florida Man crashes wedding reception to do this dance move,What is the Worm?
+Florida Man headlines,800,Florida Man arrested for throwing this seafood at passing cyclists,What are Shrimp?
+Florida Man headlines,800,Florida Man claims to be invisible after drinking this,What is Invisible Ink?
+Florida Man headlines,800,Florida Man caught racing this kind of animal on the highway,What are Goats?
+Florida Man headlines,800,Florida Man arrested after using this kitchen tool as a weapon in bar fight,What is a Frying Pan?
+Florida Man headlines,800,Florida Man banned from theme park for riding this ride 167 times in a row,What is a Roller Coaster?
+Florida Man headlines,800,Florida Man claims to own this famous landmark and tries to sell it online,What is Disney World?
+Florida Man headlines,800,Florida Man accused of impersonating this type of professional to get free food,What is a Firefighter?
+Florida Man headlines,1000,Florida Man tries to break into jail by using this unusual tool,What is a Spoon?
+Florida Man headlines,1000,Florida Man arrested after stealing this from police evidence room,What is a Keg of Beer?
+Florida Man headlines,1000,Florida Man sues himself for doing this,What is Throwing a Rock at His Own Car?
+Florida Man headlines,1000,Florida Man builds homemade submarine to smuggle this,What is Exotic Fish?
+Florida Man headlines,1000,Florida Man arrested for trying to ride this at SeaWorld,What is a Killer Whale?
+Florida Man headlines,1000,Florida Man fakes being this superhero to get into Comic Con,What is Batman?
+Florida Man headlines,1000,Florida Man caught trying to steal this giant object from airport,What is a Luggage Cart Train?
+Florida Man headlines,1000,Florida Man claims to be mayor of this imaginary town,What is Flo Rida City?
+Florida Man headlines,1000,Florida Man uses this animal to try to rob a bank,What is a Live Alligator?
+Florida Man headlines,1000,Florida Man arrested for trying to dry this animal in a laundromat,What is a Cat?
+As Seen on TV products,200,This absorbent towel was advertised as holding 12 times its weight in liquid,What is the ShamWow?
+As Seen on TV products,200,This blue putty infomercial claimed to seal leaks instantly,What is Flex Seal?
+As Seen on TV products,200,This chopping device promised to dice onions in seconds,What is the Slap Chop?
+As Seen on TV products,200,This cleaning pad from Mr Clean was marketed as magic,What is the Magic Eraser?
+As Seen on TV products,200,This tape claimed to work even underwater,What is Flex Tape?
+As Seen on TV products,200,This small copper infused bracelet claimed to reduce joint pain,What is a Copper Bracelet or Copper Fit?
+As Seen on TV products,200,This late night ad sold knives capable of cutting through cans,What are Ginsu Knives?
+As Seen on TV products,200,This blanket with sleeves became a 2000s sensation,What is the Snuggie?
+As Seen on TV products,200,This cleaner advertised by Billy Mays was known for its oxygen power,What is OxiClean?
+As Seen on TV products,200,This exercise gadget promised “six second abs,”What is the 6 Second Abs Machine?
+As Seen on TV products,400,This countertop grill let you “set it and forget it,”What is the George Foreman Grill?
+As Seen on TV products,400,This microwave safe cooking bowl claimed to make perfect pasta,What is the Pasta Boat?
+As Seen on TV products,400,This stick on lights were promoted for closets and hallways,What are Tap Lights?
+As Seen on TV products,400,This hair removal spring device claimed to remove facial hair painlessly,What is the Epicare or Finishing Touch?
+As Seen on TV products,400,This space saving hanger system multiplies closet space,What is Wonder Hanger?
+As Seen on TV products,400,This small spinning brush attached to a drill for cleaning,What is the Hurricane Spin Scrubber?
+As Seen on TV products,400,This color changing car wax was demonstrated on TV infomercials,What is Color Magic Wax?
+As Seen on TV products,400,This roll on product claimed to erase scratches from cars,What is Fix It Pro?
+As Seen on TV products,400,This kitchen gadget boiled and popped eggs without shells,What are Eggies?
+As Seen on TV products,400,This late night product promised to cut perfect hair at home,What is the Flowbee?
+As Seen on TV products,600,This blender was sold with the catchphrase “Will it blend?”,What is the Blendtec Blender?
+As Seen on TV products,600,This spray on hair gave the illusion of thicker coverage,What is GLH or Spray on Hair?
+As Seen on TV products,600,This stick like product claimed to instantly stop snoring,What is the Snore Stopper?
+As Seen on TV products,600,This kitchen product baked perfect bacon upright,What is the Bacon Wave?
+As Seen on TV products,600,This exercise product promised buns of steel with a spring loaded seat,What is the ThighMaster?
+As Seen on TV products,600,This outdoor hose expanded three times its length when filled,What is the X Hose?
+As Seen on TV products,600,This knife could cut through a shoe and still slice a tomato,What is Miracle Blade?
+As Seen on TV products,600,This TV gadget turned any faucet into a water fountain,What is Aqua Zooka or Faucet Fountain?
+As Seen on TV products,600,This kitchen product made stuffed hamburgers easily,What is the Stuffed Burger Press?
+As Seen on TV products,600,This pocket sized sewing device was pitched as a “handheld sewing machine,”What is the Handy Stitch?
+As Seen on TV products,800,This miracle mop was promoted by Joy Mangano and featured in a movie,What is the Miracle Mop?
+As Seen on TV products,800,This TV knife set promised never to need sharpening,What is Cutco or Forever Sharp Knives?
+As Seen on TV products,800,This rotisserie oven was pitched by Ron Popeil,What is the Showtime Rotisserie?
+As Seen on TV products,800,This sticky reusable lint roller could be rinsed under water,What is the Schticky?
+As Seen on TV products,800,This pillow promised better alignment for your knees,What is the Contour Legacy Pillow?
+As Seen on TV products,800,This nonstick pan claimed you could cook without oil,What is the Copper Chef Pan?
+As Seen on TV products,800,This foam spray created an instant rubber seal advertised with dramatic demos,What is Flex Seal?
+As Seen on TV products,800,This exercise gadget rolled out and back in for core workouts,What is the Ab Roller?
+As Seen on TV products,800,This infomercial sold a phone sanitizer using UV light,What is PhoneSoap?
+As Seen on TV products,800,This as seen on TV pet product brushed away shedding hair,What is the Pet Zoom Grooming Brush?
+As Seen on TV products,1000,This kitchen gadget spun salad dry in seconds,What is the Salad Spinner?
+As Seen on TV products,1000,This product made pancakes in a perfect shape with no mess,What is the Perfect Pancake Pan?
+As Seen on TV products,1000,This product was sold as a nonstick baking mat replacing parchment paper,What is Silpat?
+As Seen on TV products,1000,This pet training system was promoted with the slogan “whisperer,”What is the Pet Command Trainer?
+As Seen on TV products,1000,This pillow was marketed to improve snoring by elevating the head,What is the Snore Relief Pillow?
+As Seen on TV products,1000,This exercise product promised to electrify your abs with a belt,What is the Ab Energizer Belt?
+As Seen on TV products,1000,This mini cooker made individual pies in minutes,What is the Personal Pie Maker?
+As Seen on TV products,1000,This gadget turned any outlet into six with a swivel,What is the Socket Saver or Power Adaptor?
+As Seen on TV products,1000,This small grill claimed to cook perfect quesadillas,What is the Quesadilla Maker?
+As Seen on TV products,1000,This novelty product projected stars on your ceiling at night,What is the Star Belly or Star Projector?
+South Park,200,This small Colorado town is the setting of the show,What is South Park?
+South Park,200,This foul mouthed boy wears a red jacket and blue hat,Who is Eric Cartman?
+South Park,200,This boy is the most polite of the main four often saying “You guys,”Who is Kyle Broflovski?
+South Park,200,This boy dies repeatedly in early seasons,Who is Kenny McCormick?
+South Park,200,This fourth main character is considered the show’s straight man,Who is Stan Marsh?
+South Park,200,This elementary school teacher has a puppet named Mr Hat,Who is Mr Garrison?
+South Park,200,This Canadian comedy duo are favorites of the boys,Who are Terrance and Phillip?
+South Park,200,This character is based on a real chef voiced by Isaac Hayes,Who is Chef?
+South Park,200,This character’s catchphrase is “Oh my God they killed Kenny!”,What is Stan and Kyle?
+South Park,200,This show’s creators also made the movie Team America,Who are Trey Parker and Matt Stone?
+South Park,400,This disabled character moves in a motorized wheelchair,Who is Timmy?
+South Park,400,This character replaces Kenny in season 6 as the fourth friend,Who is Butters Stotch?
+South Park,400,This goth kid leads the school’s vampire clique,Who is Henrietta?
+South Park,400,This wealthy celebrity adopted many kids in a parody episode,Who is Angelina Jolie?
+South Park,400,This mascot for the school is a walking towel,Who is Towelie?
+South Park,400,This teacher turned into a woman then back again during the series,Who is Mr Garrison?
+South Park,400,This episode featured the song “Blame Canada” nominated for an Oscar,What is South Park Bigger Longer and Uncut?
+South Park,400,This store run by Mr Slave sells adult items in town,What is the South Park Mall or Adult Store?
+South Park,400,This character’s superhero alter ego is The Coon,Who is Eric Cartman?
+South Park,400,This episode features the boys playing World of Warcraft,What is Make Love Not Warcraft?
+South Park,600,This rival town hosts the “Cow Days” festival,What is Middle Park or North Park?
+South Park,600,This group of kids dresses like ninjas after buying weapons at a fair,What is Good Times With Weapons?
+South Park,600,This parent of Stan starts a weed business called Tegridy Farms,Who is Randy Marsh?
+South Park,600,This celebrity was depicted jumping on a couch parodying Oprah,Who is Tom Cruise?
+South Park,600,This character works at City Wok and often feuds with Mongolians,Who is Mr Kim?
+South Park,600,This episode parodied Pokémon with little toys,What is Chinpokomon?
+South Park,600,This animal was a Christmas icon singing songs of cheer,Who is Mr Hankey the Christmas Poo?
+South Park,600,This celebrity was depicted as a giant robot fighting Barbara Streisand,Who is Mecha Streisand?
+South Park,600,This organization sues Chef for a music parody,What is the Record Industry Association or RIAA?
+South Park,600,This character is obsessed with World of Warcraft and extremely overweight,Who is the Griefer Guy or Make Love Not Warcraft Guy?
+South Park,800,This character is secretly Professor Chaos,Who is Butters?
+South Park,800,This spoof of Game of Thrones features kids dressed as fantasy warriors,What is Black Friday Trilogy?
+South Park,800,This singer appears in an episode parodying her 2001 breakdown,Who is Britney Spears?
+South Park,800,This fast food chain’s mascot tries to steal a recipe from South Park,What is KFC?
+South Park,800,This season 5 episode introduced a counter for the word “shit”,What is It Hits the Fan?
+South Park,800,This 1999 movie expanded the show into theaters,What is South Park Bigger Longer and Uncut?
+South Park,800,This catchphrase from Cartman warns people to “Respect my …”,What is Authority?
+South Park,800,This online game leads Cartman to plan an elaborate scheme in “Scott Tenorman Must Die”,Who is Scott Tenorman?
+South Park,800,This mystical creature is hired to teach kids about tolerance,Who is the Tolerance Dragon or the Multiculturalism Creature?
+South Park,800,This talking object warns kids about drugs saying “Drugs are bad mkay”,Who is Mr Mackey?
+South Park,1000,This episode features the kids trying to get their show on cable access TV,What is The Spirit of Christmas?
+South Park,1000,This future telling character predicts doom for the town,Who is the Old Farmer or Future Teller?
+South Park,1000,This group of mountain people kidnaps Butters in a cult like episode,What are the Go God Go People or Future Humans?
+South Park,1000,This fictional console war parodied the Xbox and PlayStation rivalry,What is the Console Wars Trilogy?
+South Park,1000,This infamous two part episode parodied Scientology,What is Trapped in the Closet?
+South Park,1000,This secret group underground runs everything in the town,What is the Council of the Gnomes or Underpants Gnomes?
+South Park,1000,This 200 episode celebration revisited many past characters,What is 200 and 201?
+South Park,1000,This boy band formed by the main characters had a hit single “Fingerbang,”What is Fingerbang?
+South Park,1000,This vigilante group of kids tries to fight crime in town,What is Coon and Friends?
+South Park,1000,This multiverse villain seeks to destroy all timelines in a later season,Who is Professor Chaos or Mysterion’s Villain?
+Basketball/NBA Trivia,200,This team is known as the Purple and Gold and plays in Los Angeles,Who are the Lakers?
+Basketball/NBA Trivia,200,This player is known as Air Jordan,Who is Michael Jordan?
+Basketball/NBA Trivia,200,This player nicknamed "The King",Who is LeBron James?
+Basketball/NBA Trivia,200,This team won six NBA championships in the 1990s with Michael Jordan,Who are the Chicago Bulls?
+Basketball/NBA Trivia,200,This player holds the record for most points in a single NBA game with 100,Who is Wilt Chamberlain?
+Basketball/NBA Trivia,200,This player known for sky hook shots played for the Lakers,Who is Kareem Abdul Jabbar?
+Basketball/NBA Trivia,200,This player known as The Greek Freak plays for the Bucks,Who is Giannis Antetokounmpo?
+Basketball/NBA Trivia,200,This point guard nicknamed CP3 has played for the Clippers Rockets and Suns,Who is Chris Paul?
+Basketball/NBA Trivia,200,This team’s mascot is a coyote and is based in Texas,Who are the San Antonio Spurs?
+Basketball/NBA Trivia,200,This player famously said “Practice we talking about practice” at a press conference,Who is Allen Iverson?
+Basketball/NBA Trivia,400,This team was formerly known as the Seattle SuperSonics,Who are the Oklahoma City Thunder?
+Basketball/NBA Trivia,400,This player was drafted straight from high school by the Cavaliers in 2003,Who is LeBron James?
+Basketball/NBA Trivia,400,This player wore number 24 and number 8 for the Lakers,Who is Kobe Bryant?
+Basketball/NBA Trivia,400,This NBA trophy is awarded to the league champion,What is the Larry O’Brien Championship Trophy?
+Basketball/NBA Trivia,400,This Eastern Conference team is named after dinosaurs,Who are the Toronto Raptors?
+Basketball/NBA Trivia,400,This team became the first to go 73 9 in a season,Who are the Golden State Warriors?
+Basketball/NBA Trivia,400,This coach led the Bulls and Lakers to 11 NBA titles,Who is Phil Jackson?
+Basketball/NBA Trivia,400,This player is known as The Mailman,Who is Karl Malone?
+Basketball/NBA Trivia,400,This player is the NBA all time leader in assists,Who is John Stockton?
+Basketball/NBA Trivia,400,This big man was nicknamed The Diesel and Superman,Who is Shaquille O’Neal?
+Basketball/NBA Trivia,600,This Boston Celtics legend wore number 33,Who is Larry Bird?
+Basketball/NBA Trivia,600,This team plays at Madison Square Garden,Who are the New York Knicks?
+Basketball/NBA Trivia,600,This small forward was nicknamed The Human Highlight Film,Who is Dominique Wilkins?
+Basketball/NBA Trivia,600,This NBA player became famous for his “Fear the Beard” slogan,Who is James Harden?
+Basketball/NBA Trivia,600,This rookie sensation was drafted by the Pelicans in 2019,Who is Zion Williamson?
+Basketball/NBA Trivia,600,This team’s mascot is named Benny and wears red,Who are the Chicago Bulls?
+Basketball/NBA Trivia,600,This player known as The Admiral played for the Spurs,Who is David Robinson?
+Basketball/NBA Trivia,600,This player was nicknamed Big Fundamental,Who is Tim Duncan?
+Basketball/NBA Trivia,600,This player was known for triple doubles and played for the Thunder Wizards and Lakers,Who is Russell Westbrook?
+Basketball/NBA Trivia,600,This man coached Team USA to Olympic gold and Duke to many NCAA titles,Who is Mike Krzyzewski?
+Basketball/NBA Trivia,800,This Denver Nuggets player nicknamed Joker won back to back MVPs,Who is Nikola Jokic?
+Basketball/NBA Trivia,800,This team was founded in 1946 and is based in the Bay Area,Who are the Golden State Warriors?
+Basketball/NBA Trivia,800,This player blocked the most shots in NBA history,Who is Hakeem Olajuwon?
+Basketball/NBA Trivia,800,This guard is nicknamed The Answer and played for the 76ers,Who is Allen Iverson?
+Basketball/NBA Trivia,800,This city’s NBA team is called the Heat,What is Miami?
+Basketball/NBA Trivia,800,This high flying dunker won the 2000 Dunk Contest jumping over a mascot,Who is Vince Carter?
+Basketball/NBA Trivia,800,This team drafted Dirk Nowitzki in 1998,Who are the Milwaukee Bucks then traded to Dallas Mavericks?
+Basketball/NBA Trivia,800,This player known for the skywalker nickname played for the Nuggets,Who is David Thompson?
+Basketball/NBA Trivia,800,This point guard nicknamed Magic led the Lakers Showtime era,Who is Magic Johnson?
+Basketball/NBA Trivia,800,This Celtics center won 11 championships in 13 seasons,Who is Bill Russell?
+Basketball/NBA Trivia,1000,This ABA legend scored 30 000 points and later starred in the NBA,Who is Julius Erving or Dr J?
+Basketball/NBA Trivia,1000,This big man was nicknamed The Stilt before Wilt Chamberlain,Who is George Mikan?
+Basketball/NBA Trivia,1000,This player scored 100 points in a single NCAA game before joining the NBA,Who is Pete Maravich?
+Basketball/NBA Trivia,1000,This team won the first NBA championship in 1947,Who are the Philadelphia Warriors?
+Basketball/NBA Trivia,1000,This international star from China played for the Houston Rockets,Who is Yao Ming?
+Basketball/NBA Trivia,1000,This 5 foot 3 guard was the shortest player ever in the NBA,Who is Muggsy Bogues?
+Basketball/NBA Trivia,1000,This Serbian guard played for the Kings and hit clutch threes in the 2000s,Who is Peja Stojakovic?
+Basketball/NBA Trivia,1000,This coach pioneered the triangle offense,Who is Tex Winter?
+Basketball/NBA Trivia,1000,This player won Defensive Player of the Year four times in the 1980s,Who is Sidney Moncrief?
+Basketball/NBA Trivia,1000,This player from Argentina won Olympic gold in 2004 and an NBA title with the Spurs,Who is Manu Ginobili?
+Fast Food/Company Slogans,200,“I’m Lovin’ It.”,What is McDonald’s?
+Fast Food/Company Slogans,200,“Have it your way.”,What is Burger King?
+Fast Food/Company Slogans,200,“Eat Fresh.”,What is Subway?
+Fast Food/Company Slogans,200,“Finger Lickin’ Good.”,What is KFC?
+Fast Food/Company Slogans,200,“Think Outside the Bun.”,What is Taco Bell?
+Fast Food/Company Slogans,200,“America Runs on Dunkin’.”,What is Dunkin’ Donuts?
+Fast Food/Company Slogans,200,“We Have the Meats.”,What is Arby’s?
+Fast Food/Company Slogans,200,“Where’s the Beef?”,What is Wendy’s?
+Fast Food/Company Slogans,200,“Fresh Never Frozen.”,What is Wendy’s?
+Fast Food/Company Slogans,200,“Eat Mor Chikin.”,What is Chick fil A?
+Fast Food/Company Slogans,400,“Better Ingredients. Better Pizza.”,What is Papa John’s?
+Fast Food/Company Slogans,400,“The King of Beers.”,What is Budweiser?
+Fast Food/Company Slogans,400,“Melts in your mouth not in your hands.”,What are M&Ms?
+Fast Food/Company Slogans,400,“The Happiest Place on Earth.”,What is Disneyland?
+Fast Food/Company Slogans,400,“You’re in good hands.”,What is Allstate?
+Fast Food/Company Slogans,400,“Betcha can’t eat just one.”,What is Lay’s?
+Fast Food/Company Slogans,400,“Open Happiness.”,What is Coca Cola?
+Fast Food/Company Slogans,400,“The Breakfast of Champions.”,What is Wheaties?
+Fast Food/Company Slogans,400,“Taste the Rainbow.”,What is Skittles?
+Fast Food/Company Slogans,400,“Snap Crackle Pop.”,What is Rice Krispies?
+Fast Food/Company Slogans,600,“Have a Break Have a …”,What is Kit Kat?
+Fast Food/Company Slogans,600,“Once you pop you can’t stop.”,What is Pringles?
+Fast Food/Company Slogans,600,“The Ultimate Driving Machine.”,What is BMW?
+Fast Food/Company Slogans,600,“Because You’re Worth It.”,What is L’Oréal?
+Fast Food/Company Slogans,600,“Taste So Good Cats Ask for It by Name.”,What is Meow Mix?
+Fast Food/Company Slogans,600,“A Diamond is Forever.”,What is De Beers?
+Fast Food/Company Slogans,600,“The Pause that Refreshes.”,What is Coca Cola?
+Fast Food/Company Slogans,600,“Obey Your Thirst.”,What is Sprite?
+Fast Food/Company Slogans,600,“Good to the Last Drop.”,What is Maxwell House?
+Fast Food/Company Slogans,600,“Think Different.”,What is Apple?
+Fast Food/Company Slogans,800,“Bet on Black.”,What is Caesars or Blackjack Campaign?
+Fast Food/Company Slogans,800,“Challenge Everything.”,What is EA Sports?
+Fast Food/Company Slogans,800,“Because Change Happens.”,What is H&R Block?
+Fast Food/Company Slogans,800,“Life’s Good.”,What is LG Electronics?
+Fast Food/Company Slogans,800,“Imagination at Work.”,What is GE General Electric?
+Fast Food/Company Slogans,800,“It Gives You Wings.”,What is Red Bull?
+Fast Food/Company Slogans,800,“Think Small.”,What is Volkswagen?
+Fast Food/Company Slogans,800,“Don’t Leave Home Without It.”,What is American Express?
+Fast Food/Company Slogans,800,“What’s in Your Wallet?”,What is Capital One?
+Fast Food/Company Slogans,800,“Because the Night Belongs to Michelob.”,What is Michelob Beer?
+Fast Food/Company Slogans,1000,“We Try Harder.”,What is Avis?
+Fast Food/Company Slogans,1000,“When You Care Enough to Send the Very Best.”,What is Hallmark?
+Fast Food/Company Slogans,1000,“Reach Out and Touch Someone.”,What is AT&T?
+Fast Food/Company Slogans,1000,“Strong Enough for a Man but Made for a Woman.”,What is Secret Deodorant?
+Fast Food/Company Slogans,1000,“Tastes Great Less Filling.”,What is Miller Lite?
+Fast Food/Company Slogans,1000,“Don’t Be Evil.”,What is Google?
+Fast Food/Company Slogans,1000,“Quality Never Goes Out of Style.”,What is Levi’s?
+Fast Food/Company Slogans,1000,“Good Things Come to Those Who Wait.”,What is Guinness?
+Fast Food/Company Slogans,1000,“Nothing Runs Like a Deere.”,What is John Deere?
+Fast Food/Company Slogans,1000,“Be All You Can Be.”,What is the US Army?

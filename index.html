@@ -1,24 +1,72 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Jeopardy Multiplayer</title>
-<link rel="stylesheet" href="style.css">
-<script src="/socket.io/socket.io.js"></script>
-<script src="game.js" defer></script>
+  <meta charset="UTF-8">
+  <title>Jeopardy Multiplayer</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="game.js" defer></script>
 </head>
 <body>
-<!-- Overlay for correct answer -->
+  <!-- LOBBY SCREEN -->
+  <div id="lobby-screen">
+    <h1 id="lobby-title">JEOPARDY!</h1>
 
-<div class="header" id="money">Jeopardy Multiplayer</div>
-<div id="status"></div>
+    <!-- Settings top right -->
+    <button id="settings-button" class="settings-top-right">Settings (Sound On)</button>
 
-<div id="turn"></div>
-<div id="players"></div>
+    <!-- NAME PROMPT -->
+    <div class="lobby-input-row">
+      <input id="lobby-name-input" type="text" placeholder="Enter your name">
+      <button id="lobby-join-button">Join Lobby</button>
+    </div>
 
-<div class="board" id="board"></div>
+    <h2 class="lobby-players-title">Players in Lobby:</h2>
+    <div id="lobby-players"></div>
 
-<!-- The modal is created dynamically in game.js -->
+    <div id="waiting-text">
+      Waiting for players<span class="dots"></span>
+    </div>
+
+    <button id="start-game-button" disabled>
+      Start Game
+    </button>
+  </div>
+
+  <!-- GAME SCREEN -->
+  <div id="game-screen" style="display:none;">
+    <!-- Jeopardy Header -->
+    <div id="header-title">Jeopardy</div>
+    <!-- Round Counter -->
+    <div id="round-counter"></div>
+
+    <!-- Toast Banner -->
+    <div id="toast-banner"></div>
+
+    <!-- Players panel on the top-left -->
+    <div id="players" class="players-panel"></div>
+
+    <!-- Current Turn centered at the top -->
+    <div id="turn" class="current-turn"></div>
+
+    <!-- The game board -->
+    <div class="board" id="board"></div>
+  </div>
+
+  <!-- SETTINGS MODAL -->
+  <div id="settings-modal" class="settings-modal">
+    <div class="settings-content">
+      <h2>Game Settings</h2>
+      <label for="round-slider">Number of Rounds:
+        <span id="round-slider-value">1</span>
+      </label>
+      <input id="round-slider" type="range" min="1" max="5" value="1">
+      <div class="settings-buttons">
+        <button id="settings-save">Save</button>
+        <button id="settings-cancel">Cancel</button>
+        <button id="settings-exit">Exit</button>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
-
